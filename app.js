@@ -15,7 +15,7 @@ var store = resultjs.elements[0].elements[0].elements;
 
 let phone = store.filter(obj => obj.name === 'phone');
 
-console.log(phone);
+console.log(phone.elements);
 
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
