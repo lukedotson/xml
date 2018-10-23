@@ -19,7 +19,8 @@ let phone = store.filter(obj => obj.name === 'phone');
 //console.log(resultjs);
 
 var root = resultjs.elements.filter(obj => obj.name === 'stores');
-var stores = root.elements.filter(obj => obj.name === 'store');
+console.log(root);
+//var stores = root.elements.filter(obj => obj.name === 'store');
 
 var i=0;
 while (stores[i]) {
