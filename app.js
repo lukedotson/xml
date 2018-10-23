@@ -26,7 +26,7 @@ var i=0;
 while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
-	var phone = store.elements.filter(obj = obj.name === 'phone');
+	var phone = store.elements.filter(obj => obj.name === 'phone');
 	
 	console.log(phone);
 	i++;
