@@ -70,7 +70,7 @@ var page =
 '<body>' +
 '<p>' + resultjs.elements[0].elements[0] + '</p>' +
 '<textarea rows="40" cols="100">' + xmlContents + '</textarea>' +
-'<textarea rows="40" cols="100">' + result.toString() + '</textarea>' +
+'<textarea rows="40" cols="100">' + resultjs.toString() + '</textarea>' +
 '</body>' +
 '</html>';
 
