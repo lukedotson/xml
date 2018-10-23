@@ -3,15 +3,11 @@ const app = express();
 const port = 3000;
 
 var fs = require('fs');
-var xmlContents;
 
-fs.readFile('test.xml', 'utf8', function(err, contents, convertToObject()) {
-	xmlContents = contents;
-	
-});
-function convertToObject(xmlContents) {
-	console.log(xmlContents);
-}
+var xmlContents = fs.readFileSync('test.xml');
+
+console.log(xmlContents);
+
 var convert = require('xml-js');
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
