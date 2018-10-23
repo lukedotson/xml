@@ -11,9 +11,9 @@ var xmlContents = fs.readFileSync('test.xml');
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
 var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
-var store = resultjs.elements[0].elements[0].elements;
+//var store = resultjs.elements[0].elements[0].elements;
 
-let phone = store.filter(obj => obj.name === 'phone');
+//let phone = store.filter(obj => obj.name === 'phone');
 
 //console.log(phone[0].elements[0].text);
 //console.log(resultjs);
@@ -25,7 +25,10 @@ var stores = root[0].elements.filter(obj => obj.name === 'store');
 var i=0;
 while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
-	console.log(stores[i]);
+	var store = stores[i];
+	var phone = store.elements.filter(obj = obj.name === 'phone');
+	
+	console.log(phone);
 	i++;
 }
 
