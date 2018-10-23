@@ -6,7 +6,11 @@ var fs = require('fs');
 var xmlContents;
 
 fs.readFile('test.xml', 'utf8', function(err, contents) {
-	xmlContents = contents;
+	if (contents) {
+		xmlContents = contents;
+	} else {
+		xmlContents = err;
+	}
 });
 
 console.log(xmlContents);
