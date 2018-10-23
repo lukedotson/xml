@@ -51,7 +51,7 @@ while (stores[i]) {
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
-	
+	console.log(stores[i]);
 	if (phone.length == 0) {
 		var newElement = new Object();
 		newElement.type = "element";
