@@ -11,7 +11,7 @@ var xml =
 '    <todo>Play</todo>' +
 '</note>';
 
-var result = convert.xml2json(xml, {compact: false, spaces: 4});
+var result = convert.xml2json(xml, {compact: true, spaces: 4});
 app.get('/', (req, res) => res.send('Hello World!'));
 
 app.listen(port, () => console.log(`Example app listening on port ${port}! \n` + result));
