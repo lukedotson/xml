@@ -25,7 +25,7 @@ while(wholesalers[i]) {
 	
 	storeUpdates.push(entryobj);
 	
-	console.log(entryobj.name + " " entryobj.phone +"\n");
+	console.log(entryobj.name + " " + entryobj.phone +"\n");
 	i++;
 }
 
