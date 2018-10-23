@@ -59,8 +59,9 @@ while (stores[i]) {
 		newElement.elements = [{"type":"text","text":""}];
 		store.elements.push(newElement);
 		//var phoneText = phone[0].elements[0].text;
-		
+		console.log("happy");
 	}
+	console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
