@@ -7,8 +7,12 @@ var fs = require('fs');
 var xmlContents = fs.readFileSync('test.xml');
 var csvContents = fs.readFileSync('wholesaler.csv').toString();
 
-console.log(csvContents);
-//console.log(xmlContents.toString());
+//console.log(csvContents);
+
+
+var wholesalers = csvContents.split("\n");
+
+console.log("count: " + wholesalers.length);
 
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
