@@ -27,8 +27,9 @@ while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
+	var phoneText = phone[0].elements.find(obj => { return obj.name === 'text'});
 	
-	console.log(phone);
+	console.log(phoneText);
 	i++;
 }
 
