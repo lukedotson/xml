@@ -25,7 +25,7 @@ console.log(root);
 var i=0;
 while (root[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
-	console.log(stores[i]);
+	//console.log(stores[i]);
 	i++;
 }
 
