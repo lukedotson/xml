@@ -1,7 +1,17 @@
-const express = require('express')
-const app = express()
-const port = 3000
+const express = require('express');
+const app = express();
+const port = 3000;
 
-app.get('/', (req, res) => res.send('Hello World!'))
+var convert = require('xml-js');
+var xml =
+'<?xml version="1.0" encoding="utf-8"?>' +
+'<note importance="high" logged="true">' +
+'    <title>Happy</title>' +
+'    <todo>Work</todo>' +
+'    <todo>Play</todo>' +
+'</note>';
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+var result = convert.xml2json(xml, {compact: false, spaces: 4});
+app.get('/', (req, res) => res.send('Hello World!'));
+
+app.listen(port, () => console.log(`Example app listening on port ${port}!`));
