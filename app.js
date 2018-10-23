@@ -20,12 +20,12 @@ let phone = store.filter(obj => obj.name === 'phone');
 
 var root = resultjs.elements.filter(obj => obj.name === 'stores');
 console.log(root);
-//var stores = root.elements.filter(obj => obj.name === 'store');
+var stores = root[0].elements.filter(obj => obj.name === 'store');
 
 var i=0;
-while (root[i]) {
+while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
-	//console.log(stores[i]);
+	console.log(stores[i]);
 	i++;
 }
 
