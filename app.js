@@ -15,8 +15,18 @@ var store = resultjs.elements[0].elements[0].elements;
 
 let phone = store.filter(obj => obj.name === 'phone');
 
-console.log(phone[0].elements[0].text);
-console.log(resultjs);
+//console.log(phone[0].elements[0].text);
+//console.log(resultjs);
+
+var stores = resultjs.elements.filter(obj => obj.name === 'stores');
+
+var i=0;
+while (stores[i]) {
+	i++;
+}
+
+console.log(i);
+
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
 '<note importance="high" logged="true">' +
