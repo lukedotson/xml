@@ -54,7 +54,7 @@ while (stores[i]) {
 	
 	if (phone.length > 0) {
 		
-		var phoneText = phone[0].elements[0].text;
+		//var phoneText = phone[0].elements[0].text;
 		
 	}
 	var nameText = name[0].elements[0].text;
