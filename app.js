@@ -25,7 +25,7 @@ while(wholesalers[i]) {
 	
 	storeUpdates.push(entryobj);
 	
-	console.log(entryobj.name + " " + entryobj.phone +"\n");
+	//console.log(entryobj.name + " " + entryobj.phone +"\n");
 	i++;
 }
 
@@ -50,9 +50,11 @@ while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
+	var name = store.elements.filter(obj=> obj.name === 'name');
 	var phoneText = phone[0].elements[0].text;
+	var nameText = name[0].elements[0].text;
 	
-	console.log(phoneText);
+	console.log(nameText);
 	i++;
 }
 
