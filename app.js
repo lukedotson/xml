@@ -57,13 +57,13 @@ while (stores[i]) {
 		newElement.type = "element";
 		newElement.name = "phone";
 		newElement.elements = [{"type":"text","text":""}];
-		store.elements.push(newElement);
+		store.elements.splice(6, 0, newElement);
 		
 		phone = store.elements.filter(obj => obj.name === 'phone');
 		//var phoneText = phone[0].elements[0].text;
-		//console.log("happy");
+		console.log("happy");
 	}
-	//console.log(stores[i]);
+	console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
