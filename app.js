@@ -51,17 +51,19 @@ while (stores[i]) {
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
-	console.log(stores[i]);
+	//console.log(stores[i]);
 	if (phone.length == 0) {
 		var newElement = new Object();
 		newElement.type = "element";
 		newElement.name = "phone";
 		newElement.elements = [{"type":"text","text":""}];
 		store.elements.push(newElement);
+		
+		phone = store.elements.filter(obj => obj.name === 'phone';)
 		//var phoneText = phone[0].elements[0].text;
-		console.log("happy");
+		//console.log("happy");
 	}
-	console.log(stores[i]);
+	//console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
