@@ -9,6 +9,8 @@ fs.readFile('test.xml', 'utf8', function(err, contents) {
 	xmlContents = contents;
 });
 
+console.log(xmlContents);
+
 var convert = require('xml-js');
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
@@ -17,7 +19,7 @@ var xml =
 '    <todo>Work</todo>' +
 '    <todo>Play</todo>' +
 '</note>';
-var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
+//var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
 var page = 
 '<html>' +
 '<body>' +
