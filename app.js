@@ -29,7 +29,7 @@ while (stores[i]) {
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var phoneText = phone[0].elements[0];
 	
-	console.log(phone);
+	console.log(phoneText);
 	i++;
 }
 
