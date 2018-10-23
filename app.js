@@ -23,7 +23,7 @@ var xml =
 var page = 
 '<html>' +
 '<body>' +
-'<textarea rows="40" cols="100">' + result + '</textarea>' +
+'<textarea rows="40" cols="100">' + '</textarea>' +
 '</body>' +
 '</html>';
 
