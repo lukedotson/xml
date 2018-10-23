@@ -5,7 +5,7 @@ const port = 3000;
 var fs = require('fs');
 
 var xmlContents = fs.readFileSync('Staging_Stores_10222018.xml');
-var csvContents = fs.readFileSync('wholesaler.csv').toString();
+var csvContents = fs.readFileSync('updatedList.csv').toString();
 
 //console.log(csvContents);
 
@@ -17,7 +17,7 @@ var wholesalers = csvContents.split("\n");
 var storeUpdates = new Array();
 var i = 0;
 while(wholesalers[i]) {
-	var entry = wholesalers[i].split("\t");
+	var entry = wholesalers[i].split(",");
 	var entryobj = new Object();
 	
 	entryobj.name = entry[0].toUpperCase();
