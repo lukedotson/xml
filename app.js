@@ -18,11 +18,18 @@ var storeUpdates = new Array();
 var i = 0;
 while(wholesalers[i]) {
 	var entry = wholesalers[i].split("\t");
-	storeUpdates.push(entry);
+	var entryobj = new Object();
+	
+	entryobj.name = entry[0].toUpperCase();
+	entryobj.phone = entry[1];
+	
+	storeUpdates.push(entryobj);
+	
+	console.log(entryobj +"\n");
 	i++;
 }
 
-console.log("entry count: " + storeUpdates.length);
+//console.log("entry count: " + storeUpdates.length);
 
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
