@@ -11,7 +11,7 @@ console.log(xmlContents.toString());
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
 var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
-
+console.log(resultjs);
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
 '<note importance="high" logged="true">' +
@@ -23,7 +23,7 @@ var xml =
 var page = 
 '<html>' +
 '<body>' +
-'<p>' + resultjs.stores.store.phone + '</p>' +
+'<p>' + resultjs + '</p>' +
 '<textarea rows="40" cols="100">' + xmlContents + '</textarea>' +
 '<textarea rows="40" cols="100">' + result.toString() + '</textarea>' +
 '</body>' +
