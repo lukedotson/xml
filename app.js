@@ -58,7 +58,7 @@ while (stores[i]) {
 		
 	console.log("found: " + record[0].name + " " + record[0].phone + " / " + phoneText);
 	
-	phoneText = record[0].phone;
+	phone[0].elements[0].text = record[0].phone;
 	
 	i++;
 }
