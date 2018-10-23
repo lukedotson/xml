@@ -12,7 +12,17 @@ var csvContents = fs.readFileSync('wholesaler.csv').toString();
 
 var wholesalers = csvContents.split("\n");
 
-console.log("count: " + wholesalers.length);
+//console.log("count: " + wholesalers.length);
+
+var storeUpdates = new Array();
+var i = 0;
+while(wholesalers[i]) {
+	var entry = wholesalers[i].split("\t");
+	storeUpdates.push(entry);
+	i++;
+}
+
+console.log("entry count: " + storeUpdates.length);
 
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
