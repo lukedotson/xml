@@ -7,6 +7,7 @@ var xmlContents;
 
 fs.readFile('test.xml', 'utf8', function(err, contents) {
 	xmlContents = contents;
+	console.log(xmlContents);
 });
 
 var convert = require('xml-js');
