@@ -57,6 +57,9 @@ while (stores[i]) {
 	var record = storeUpdates.filter(obj => obj.name === nameText);
 		
 	console.log("found: " + record[0].name + " " + record[0].phone + " / " + phoneText);
+	
+	phoneText = record[0].phone;
+	
 	i++;
 }
 
