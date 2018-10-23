@@ -18,7 +18,14 @@ var xml =
 '    <todo>Play</todo>' +
 '</note>';
 
+var page = 
+'<html>' +
+'<body>' +
+'<textarea rows="20" cols="200">' + xmlContents + '</textarea>' +
+'</body>' +
+'</html>';
+
 var result = convert.xml2json(xml, {compact: true, spaces: 4});
-app.get('/', (req, res) => res.send(xmlContents));
+app.get('/', (req, res) => res.send(page));
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
