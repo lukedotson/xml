@@ -2,15 +2,15 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-var fs = require('fs');
+//var fs = require('fs');
 
-var xmlContents = fs.readFileSync('test.xml');
+//var xmlContents = fs.readFileSync('test.xml');
 
 //console.log(xmlContents.toString());
 
-var convert = require('xml-js');
-var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
-var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
+//var convert = require('xml-js');
+//var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
+//var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
 //var store = resultjs.elements[0].elements[0].elements;
 
 //let phone = store.filter(obj => obj.name === 'phone');
@@ -18,11 +18,11 @@ var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren:
 //console.log(phone[0].elements[0].text);
 //console.log(resultjs);
 
-var root = resultjs.elements.filter(obj => obj.name === 'stores');
+//var root = resultjs.elements.filter(obj => obj.name === 'stores');
 //console.log(root);
 //var stores = root[0].elements.filter(obj => obj.name === 'store');
 
-var i=0;
+//var i=0;
 //while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	//var store = stores[i];
