@@ -23,7 +23,7 @@ console.log(root);
 //var stores = root.elements.filter(obj => obj.name === 'store');
 
 var i=0;
-while (stores[i]) {
+while (root[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	console.log(stores[i]);
 	i++;
