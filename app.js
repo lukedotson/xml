@@ -59,7 +59,7 @@ while (stores[i]) {
 		newElement.elements = [{"type":"text","text":""}];
 		store.elements.push(newElement);
 		
-		phone = store.elements.filter(obj => obj.name === 'phone';)
+		phone = store.elements.filter(obj => obj.name === 'phone');
 		//var phoneText = phone[0].elements[0].text;
 		//console.log("happy");
 	}
