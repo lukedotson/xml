@@ -5,9 +5,9 @@ const port = 3000;
 var fs = require('fs');
 
 var xmlContents = fs.readFileSync('test.xml');
-var csvContents = fs.readFileSync('wholesaler.csv');
+var csvContents = fs.readFileSync('wholesaler.csv').toString();
 
-console.log(csvContents.toString());
+console.log(csvContents);
 //console.log(xmlContents.toString());
 
 var convert = require('xml-js');
