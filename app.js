@@ -22,6 +22,7 @@ var stores = resultjs.elements.filter(obj => obj.name === 'stores');
 
 var i=0;
 while (stores[i]) {
+	console.log(stores[i]);
 	i++;
 }
 
