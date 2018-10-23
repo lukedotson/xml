@@ -22,6 +22,7 @@ var xml =
 var page = 
 '<html>' +
 '<body>' +
+'<p>' + result.stores.store.phone._text + '</p>' +
 '<textarea rows="40" cols="100">' + xmlContents + '</textarea>' +
 '<textarea rows="40" cols="100">' + result.toString() + '</textarea>' +
 '</body>' +
