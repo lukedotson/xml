@@ -11,7 +11,7 @@ console.log(xmlContents.toString());
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
 var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
-console.log(resultjs.elements[0].elements[0].elements[phone]);
+console.log(resultjs.elements[0].elements[0].elements['phone']);
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
 '<note importance="high" logged="true">' +
