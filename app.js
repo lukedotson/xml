@@ -51,7 +51,12 @@ while (stores[i]) {
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
-	var phoneText = phone[0].elements[0].text;
+	
+	if (phone.length > 0) {
+		
+		var phoneText = phone[0].elements[0].text;
+		
+	}
 	var nameText = name[0].elements[0].text;
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
