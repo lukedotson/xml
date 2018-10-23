@@ -17,4 +17,21 @@
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
+    <store store-id="brazosavenuemarketangleton">
+        <name>BRAZOS AVENUE MARKET - ANGLETON</name>
+        <address1>113 N. VELASCO STREET</address1>
+        <city>ANGLETON</city>
+        <postal-code>77515</postal-code>
+        <state-code>TX</state-code>
+        <country-code>US</country-code>
+        <phone>(731) 641-1390</phone>
+        <latitude>29.154269</latitude>
+        <longitude>-95.406577</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
 </stores>
