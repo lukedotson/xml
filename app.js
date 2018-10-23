@@ -11,7 +11,7 @@ console.log(xmlContents.toString());
 var convert = require('xml-js');
 var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
 var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren: true});
-var store = resultjs.elements[0].elements[0];
+var store = resultjs.elements[0].elements[0].elements;
 
 let phone = store.filter(obj => obj.name === 'phone');
 
