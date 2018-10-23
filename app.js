@@ -80,12 +80,7 @@ while (stores[i]) {
 
 //var finalFile = fs.readFileSync('result.xml', 'utf8');
 var final = convert.js2xml(resultjs, {spaces: 4});
-fs.writeFile("result.xml", function(err) {
-	if(err) {
-		return console.log(err);
-	}
-	console.log("Winning");
-});
+fs.writeFile("result.xml", final, "utf8");
 console.log(final);
 
 var page = 
