@@ -19,6 +19,6 @@ var xml =
 '</note>';
 
 var result = convert.xml2json(xml, {compact: true, spaces: 4});
-app.get('/', (req, res) => res.send(contents));
+app.get('/', (req, res) => res.send(xmlContents));
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
