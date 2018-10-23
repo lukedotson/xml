@@ -78,7 +78,10 @@ while (stores[i]) {
 	i++;
 }
 
-console.log(i);
+//var finalFile = fs.readFileSync('result.xml', 'utf8');
+var final = convert.js2xml(resultjs, {spaces: 4});
+
+console.log(final);
 
 var page = 
 '<html>' +
