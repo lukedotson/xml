@@ -25,6 +25,6 @@ var page =
 '</html>';
 
 var result = convert.xml2json(xml, {compact: true, spaces: 4});
-app.get('/', (req, res) => res.send(xmlContents));
+app.get('/', (req, res) => res.send(page));
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
