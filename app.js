@@ -52,8 +52,12 @@ while (stores[i]) {
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	
-	if (phone.length > 0) {
-		
+	if (phone.length == 0) {
+		var newElement = new Object();
+		newphone.type = "element";
+		newphone.name = "phone";
+		newphone.elements = [{"type":"text","text":""}];
+		store.elements.push(newElement);
 		//var phoneText = phone[0].elements[0].text;
 		
 	}
