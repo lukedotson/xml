@@ -9,6 +9,8 @@ var xmlContents = fs.readFileSync('test.xml');
 console.log(xmlContents.toString());
 
 var convert = require('xml-js');
+var result = convert.xml2json(xmlContents, {compact: true, spaces: 4});
+
 var xml =
 '<?xml version="1.0" encoding="utf-8"?>' +
 '<note importance="high" logged="true">' +
@@ -20,11 +22,11 @@ var xml =
 var page = 
 '<html>' +
 '<body>' +
-'<textarea rows="20" cols="200">' + xmlContents + '</textarea>' +
+'<textarea rows="40" cols="100">' + xmlContents + '</textarea>' +
+'<textarea rows="40" cols="100">' + result.toString() + '</textarea>' +
 '</body>' +
 '</html>';
 
-var result = convert.xml2json(xml, {compact: true, spaces: 4});
 app.get('/', (req, res) => res.send(page));
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
