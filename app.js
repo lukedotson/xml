@@ -6,7 +6,7 @@ var fs = require('fs');
 
 var xmlContents = fs.readFileSync('test.xml');
 
-console.log(xmlContents);
+console.log(xmlContents.toString());
 
 var convert = require('xml-js');
 var xml =
