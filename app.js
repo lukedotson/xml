@@ -5,7 +5,9 @@ const port = 3000;
 var fs = require('fs');
 
 var xmlContents = fs.readFileSync('test.xml');
+var csvContents = fs.readFileSync('wholesaler.csv');
 
+console.log(csvContents.toString());
 //console.log(xmlContents.toString());
 
 var convert = require('xml-js');
@@ -24,7 +26,7 @@ var stores = root[0].elements.filter(obj => obj.name === 'store');
 
 var i=0;
 while (stores[i]) {
-	var store = stores[i].elements.filter(obj => obj.name == 'store')
+	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var phoneText = phone[0].elements[0].text;
