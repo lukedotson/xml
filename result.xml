@@ -1349,23 +1349,6 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="martharosegifts&amp;homedecor">
-        <name>MARTHA ROSE GIFTS &amp; HOME DECOR</name>
-        <address1>102 S. JEFFERSON</address1>
-        <city>MEXICO</city>
-        <postal-code>65265</postal-code>
-        <state-code>MO</state-code>
-        <country-code>US</country-code>
-        <phone>(573) 567-5050</phone>
-        <latitude>39.201449</latitude>
-        <longitude>-91.838271</longitude>
-        <store-locator-enabled-flag>true</store-locator-enabled-flag>
-        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
-        <pos-enabled-flag>false</pos-enabled-flag>
-        <custom-attributes>
-            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
-        </custom-attributes>
-    </store>
     <store store-id="a&amp;jjewelers">
         <name>A &amp; J JEWELERS</name>
         <address1>1575 SCENIC HWY, SUITE 200</address1>
@@ -1376,6 +1359,23 @@ Sunday: 12PM - 6PM</store-hours>
         <phone>(678) 344-1022</phone>
         <latitude>33.863454</latitude>
         <longitude>-84.008066</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+    <store store-id="martharosegifts&amp;homedecor">
+        <name>MARTHA ROSE GIFTS &amp; HOME DECOR</name>
+        <address1>102 S. JEFFERSON</address1>
+        <city>MEXICO</city>
+        <postal-code>65265</postal-code>
+        <state-code>MO</state-code>
+        <country-code>US</country-code>
+        <phone>(573) 567-5050</phone>
+        <latitude>39.201449</latitude>
+        <longitude>-91.838271</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
         <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
         <pos-enabled-flag>false</pos-enabled-flag>
@@ -10753,23 +10753,6 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="silversteer&amp;co">
-        <name>SILVER STEER &amp; CO</name>
-        <address1>539 COOL SPRINGS BLVD, SUITE 110</address1>
-        <city>FRANKLIN</city>
-        <postal-code>37067</postal-code>
-        <state-code>TN</state-code>
-        <country-code>US</country-code>
-        <phone>(615) 807-2840</phone>
-        <latitude>35.912072</latitude>
-        <longitude>-86.765537</longitude>
-        <store-locator-enabled-flag>true</store-locator-enabled-flag>
-        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
-        <pos-enabled-flag>false</pos-enabled-flag>
-        <custom-attributes>
-            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
-        </custom-attributes>
-    </store>
     <store store-id="ETONCHAGRIN">
         <name>ETON CHAGRIN</name>
         <address1>28699 CHAGRIN BLVD, SUITE 150</address1>
@@ -10791,6 +10774,23 @@ Sunday: 12PM - 6PM</store-hours>
         <custom-attributes>
             <custom-attribute attribute-id="IsOtherRetailer">false</custom-attribute>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
+        </custom-attributes>
+    </store>
+    <store store-id="silversteer&amp;co">
+        <name>SILVER STEER &amp; CO</name>
+        <address1>539 COOL SPRINGS BLVD, SUITE 110</address1>
+        <city>FRANKLIN</city>
+        <postal-code>37067</postal-code>
+        <state-code>TN</state-code>
+        <country-code>US</country-code>
+        <phone>(615) 807-2840</phone>
+        <latitude>35.912072</latitude>
+        <longitude>-86.765537</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
     <store store-id="brownleejewelersrivergate">
@@ -15292,9 +15292,10 @@ Sunday: 12PM - 6PM</store-hours>
         <state-code>TX</state-code>
         <country-code>US</country-code>
         <email>lavillita@kendrascott.com</email>
+        <phone>(915) 219-5247</phone>
         <store-hours xml:lang="x-default">Monday - Saturday: 10AM - 8PM&lt;br /&gt;
 Sunday: 12PM - 6PM</store-hours>
-        <image>images/stores/coming-soon-store-image.jpg</image>
+        <image>images/el-paso-la-villita.jpg</image>
         <latitude>31.834255</latitude>
         <longitude>-106.548522</longitude>
         <inventory-list-id>Store265093</inventory-list-id>
@@ -15750,24 +15751,6 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="designersmark">
-        <name>DESIGNER'S MARK</name>
-        <address1>10018 SPANISH ISLES BLVD, SUITE A8-A10</address1>
-        <city>BOCA RATON</city>
-        <postal-code>33498</postal-code>
-        <state-code>FL</state-code>
-        <country-code>US</country-code>
-        <phone>(561) 961-4149</phone>
-        <latitude>26.40116</latitude>
-        <longitude>-80.206718</longitude>
-        <store-locator-enabled-flag>true</store-locator-enabled-flag>
-        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
-        <pos-enabled-flag>false</pos-enabled-flag>
-        <custom-attributes>
-            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
-            <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
-        </custom-attributes>
-    </store>
     <store store-id="LAKESIDE">
         <name>LAKESIDE SHOPPING CENTER</name>
         <address1>3301 VETERANS MEMORIAL BLVD, SUITE 23</address1>
@@ -15788,6 +15771,24 @@ Sunday: 12PM - 6PM</store-hours>
         <pos-enabled-flag>false</pos-enabled-flag>
         <custom-attributes>
             <custom-attribute attribute-id="IsOtherRetailer">false</custom-attribute>
+            <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
+        </custom-attributes>
+    </store>
+    <store store-id="designersmark">
+        <name>DESIGNER'S MARK</name>
+        <address1>10018 SPANISH ISLES BLVD, SUITE A8-A10</address1>
+        <city>BOCA RATON</city>
+        <postal-code>33498</postal-code>
+        <state-code>FL</state-code>
+        <country-code>US</country-code>
+        <phone>(561) 961-4149</phone>
+        <latitude>26.40116</latitude>
+        <longitude>-80.206718</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
