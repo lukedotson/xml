@@ -53,6 +53,7 @@ while (stores[i]) {
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
+	storeID = xmlescape(storeID);
 	console.log("store-id: " + storeID);
 	
 	//console.log(stores[i]);
