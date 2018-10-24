@@ -6,6 +6,7 @@ var fs = require('fs');
 
 var xmlContents = fs.readFileSync('Staging_Stores_10222018.xml');
 var csvContents = fs.readFileSync('updatedList.csv').toString();
+var xmlescape = require('xml-escape');
 
 //console.log(csvContents);
 
@@ -42,7 +43,7 @@ var resultjs = convert.xml2js(xmlContents, {ignoreComment: true, alwaysChildren:
 //console.log(resultjs);
 
 var root = resultjs.elements.filter(obj => obj.name === 'stores');
-console.log(root);
+//console.log(root);
 var stores = root[0].elements.filter(obj => obj.name === 'store');
 
 var i=0;
@@ -51,6 +52,9 @@ while (stores[i]) {
 	var store = stores[i];
 	var phone = store.elements.filter(obj => obj.name === 'phone');
 	var name = store.elements.filter(obj=> obj.name === 'name');
+	var storeID = store.attributes['store-id'];
+	console.log("store-id: " + storeID);
+	
 	//console.log(stores[i]);
 	if (phone.length == 0) {
 		var newElement = new Object();
@@ -61,16 +65,16 @@ while (stores[i]) {
 		
 		phone = store.elements.filter(obj => obj.name === 'phone');
 		//var phoneText = phone[0].elements[0].text;
-		console.log("happy");
+		//console.log("happy");
 	}
-	console.log(stores[i]);
+	//console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
 		
 	if (record.length>0) {
 		
-		console.log("found: " + record[0].name + " " + record[0].phone + " / " + phone[0].elements[0].text);
+		//console.log("found: " + record[0].name + " " + record[0].phone + " / " + phone[0].elements[0].text);
 		phone[0].elements[0].text = record[0].phone;
 	
 	}
