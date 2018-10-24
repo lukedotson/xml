@@ -4,7 +4,7 @@ const port = 3000;
 
 var fs = require('fs');
 
-var xmlContents = fs.readFileSync('Staging_Stores_10222018.xml');
+var xmlContents = fs.readFileSync('Staging_Stores_10242018.xml');
 var csvContents = fs.readFileSync('updatedList.csv').toString();
 var xmlescape = require('xml-escape');
 
