@@ -1862,7 +1862,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>78374</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>27.877804</latitude>
         <longitude>-97.322034</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -4501,7 +4500,6 @@ Sunday: 12:30PM - 6PM</store-hours>
         <postal-code>10012</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <store-hours xml:lang="x-default">Monday - Saturday: 10AM - 8PM&lt;br /&gt;
 Sunday: 11AM - 7PM</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
@@ -5900,7 +5898,6 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>55425</postal-code>
         <state-code>MN</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>44.853278</latitude>
@@ -8322,7 +8319,6 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>753034</postal-code>
         <state-code>OK</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>35.639523</latitude>
@@ -8411,7 +8407,6 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>40202</postal-code>
         <state-code>KY</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>38.251951</latitude>
         <longitude>-85.75667</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9004,7 +8999,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>32459</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>30.347158</latitude>
         <longitude>-86.222048</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9339,7 +9333,6 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>W1A 1AB</postal-code>
         <latitude>51.51463</latitude>
         <longitude>-0.155016</longitude>
-        <phone></phone>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
         <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
         <pos-enabled-flag>false</pos-enabled-flag>
@@ -12478,7 +12471,6 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>29401</postal-code>
         <state-code>SC</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>32.782405</latitude>
@@ -13098,7 +13090,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>35401</postal-code>
         <state-code>AL</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>33.209154</latitude>
         <longitude>-87.569559</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13978,7 +13969,6 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>02128</postal-code>
         <state-code>MA</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>42.367508</latitude>
         <longitude>-71.025144</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -14013,7 +14003,6 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>78613</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>30.525524</latitude>
         <longitude>-97.81648</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -15312,7 +15301,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>79912</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <email>lavillita@kendrascott.com</email>
         <store-hours xml:lang="x-default">Monday - Saturday: 10AM - 8PM&lt;br /&gt;
 Sunday: 12PM - 6PM</store-hours>
@@ -15444,7 +15432,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>67401</postal-code>
         <state-code>KS</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>38.800797</latitude>
         <longitude>-97.612221</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16226,7 +16213,6 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>68847</postal-code>
         <state-code>NE</state-code>
         <country-code>US</country-code>
-        <phone></phone>
         <latitude>40.723561</latitude>
         <longitude>-99.084035</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
