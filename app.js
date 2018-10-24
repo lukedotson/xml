@@ -61,6 +61,7 @@ while (stores[i]) {
 
 	//console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
+	nameText = nameText.replace('&amp;', '&');
 	
 	var record = storeUpdates.filter(obj => obj.name === nameText);
 		
