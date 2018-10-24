@@ -34,7 +34,7 @@
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="maryjane&apos;sestespark">
+    <store store-id="maryjane'sestespark">
         <name>MARY JANE'S - ESTES PARK</name>
         <address1>358 E ELKHORN AVE</address1>
         <city>ESTES PARK</city>
@@ -576,7 +576,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="frankie&apos;sonthepark">
+    <store store-id="frankie'sonthepark">
         <name>FRANKIE'S ON THE PARK</name>
         <address1>712 MONTANA AVE. </address1>
         <city>SANTA MONICA</city>
@@ -849,7 +849,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;soffredricksburg">
+    <store store-id="monkee'soffredricksburg">
         <name>MONKEE'S OF FREDRICKSBURG</name>
         <address1>827 CAROLINE STREET</address1>
         <city>FREDERICKSBURG</city>
@@ -968,7 +968,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="benjamin&apos;sofhickory">
+    <store store-id="benjamin'sofhickory">
         <name>BENJAMIN'S OF HICKORY</name>
         <address1>100 N STERLING STREET</address1>
         <city>MORGANTON</city>
@@ -1332,7 +1332,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ima&apos;sfashionparagould">
+    <store store-id="ima'sfashionparagould">
         <name>IMA'S FASHION - PARAGOULD</name>
         <address1>309 WEST GARLAND STREET</address1>
         <city>PARAGOULD</city>
@@ -1400,7 +1400,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="hissyfit&apos;srosemarybeach">
+    <store store-id="hissyfit'srosemarybeach">
         <name>HISSYFIT'S - ROSEMARY BEACH</name>
         <address1>34 NORTH BARRETT SQUARE</address1>
         <city>ROSEMARY BEACH</city>
@@ -1434,7 +1434,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cornelljeweler&apos;s">
+    <store store-id="cornelljeweler's">
         <name>CORNELL JEWELER'S</name>
         <address1>3100 MONROE AVE</address1>
         <city>ROCHESTER</city>
@@ -1542,7 +1542,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="it&apos;sretailtherapy">
+    <store store-id="it'sretailtherapy">
         <name>IT'S RETAIL THERAPY</name>
         <address1>206 CARTERET ST. </address1>
         <city>BEAUFORT</city>
@@ -1575,7 +1575,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="henri&apos;scloudnine">
+    <store store-id="henri'scloudnine">
         <name>HENRI'S CLOUD NINE</name>
         <address1>110 N MARKET STREET</address1>
         <city>MINERVA</city>
@@ -1892,7 +1892,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="albert&apos;sjewelers">
+    <store store-id="albert'sjewelers">
         <name>ALBERT'S JEWELERS</name>
         <address1>711 MAIN STREET</address1>
         <city>SCHERERVILLE</city>
@@ -2037,7 +2037,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="stephan&apos;sexclusives">
+    <store store-id="stephan'sexclusives">
         <name>STEPHAN'S EXCLUSIVES</name>
         <address1>222 MAIN STREET</address1>
         <city>LAGRANGE</city>
@@ -2071,7 +2071,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="elizabeth&apos;sshoes&amp;accessories">
+    <store store-id="elizabeth'sshoes&amp;accessories">
         <name>ELIZABETH'S SHOES &amp; ACCESSORIES</name>
         <address1>4777 VESTAL PARKWAY</address1>
         <city>VESTAL</city>
@@ -2088,7 +2088,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="sharla&apos;s">
+    <store store-id="sharla's">
         <name>SHARLA'S</name>
         <address1>109 E VIRGINIA STREET</address1>
         <city>MCKINNEY</city>
@@ -2197,7 +2197,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="seabel&apos;s">
+    <store store-id="seabel's">
         <name>SEABEL'S</name>
         <address1>105 W C ST.</address1>
         <city>PUEBLO</city>
@@ -2288,7 +2288,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="jennifer&apos;sonmain">
+    <store store-id="jennifer'sonmain">
         <name>JENNIFER'S ON MAIN</name>
         <address1>303 MAIN STREET</address1>
         <city>CEDAR FALLS</city>
@@ -2322,7 +2322,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="herringstone&apos;stwosisters&apos;monroe">
+    <store store-id="herringstone'stwosisters'monroe">
         <name>HERRINGSTONE'S TWO SISTERS' MONROE</name>
         <address1>1830 FORSYTHE AVE </address1>
         <city>MONROE</city>
@@ -2484,7 +2484,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="j.hoffman&apos;s">
+    <store store-id="j.hoffman's">
         <name>J. HOFFMAN'S</name>
         <address1>4918 50TH STREET</address1>
         <city>LUBBOCK</city>
@@ -2638,7 +2638,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="appleannie&apos;sgiftshop">
+    <store store-id="appleannie'sgiftshop">
         <name>APPLE ANNIE'S GIFT SHOP</name>
         <address1>152 GRANTS FERRY RD.</address1>
         <city>BRANDON</city>
@@ -2690,7 +2690,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="burkett&apos;s">
+    <store store-id="burkett's">
         <name>BURKETT'S</name>
         <address1>2617 COLBY AVE.</address1>
         <city>EVERETT</city>
@@ -2945,7 +2945,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="hissyfit&apos;sdothan">
+    <store store-id="hissyfit'sdothan">
         <name>HISSYFIT'S - DOTHAN</name>
         <address1>560-6 WESTGATE PARKWAY</address1>
         <city>DOTHAN</city>
@@ -3188,7 +3188,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="christopher&apos;sboutiqueofcircleville">
+    <store store-id="christopher'sboutiqueofcircleville">
         <name>CHRISTOPHER'S BOUTIQUE OF CIRCLEVILLE</name>
         <address1>121 S. COURT STREET</address1>
         <city>CIRCLEVILLE</city>
@@ -3313,7 +3313,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="stellarae&apos;s">
+    <store store-id="stellarae's">
         <name>STELLA RAE'S</name>
         <address1>101 SOUTH 2ND STREET</address1>
         <city>MCALESTER</city>
@@ -3598,7 +3598,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="eastport&apos;slittlesecret">
+    <store store-id="eastport'slittlesecret">
         <name>EASTPORT'S LITTLE SECRET</name>
         <address1>495 MONTAUK HIGHWAY</address1>
         <city>EASTPORT</city>
@@ -3615,7 +3615,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mica&amp;molly&apos;s">
+    <store store-id="mica&amp;molly's">
         <name>MICA &amp; MOLLY'S</name>
         <address1>1112 W NEW HAVEN AVE</address1>
         <city>MELBOURNE</city>
@@ -3707,7 +3707,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="girlfriend&apos;sflowers&amp;gifts">
+    <store store-id="girlfriend'sflowers&amp;gifts">
         <name>GIRLFRIEND'S FLOWERS &amp; GIFTS</name>
         <address1>202 N KANSAS AVE</address1>
         <city>LIBERAL</city>
@@ -3724,7 +3724,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="jongee&apos;s">
+    <store store-id="jongee's">
         <name>JONGEE'S</name>
         <address1>18 E BOCKMAN WAY </address1>
         <city>SPARTA</city>
@@ -3758,7 +3758,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="j.lilly&apos;sboutique">
+    <store store-id="j.lilly'sboutique">
         <name>J. LILLY'S BOUTIQUE</name>
         <address1>10901 NE 23RD ST.</address1>
         <city>OKLAHOMA CITY</city>
@@ -3775,7 +3775,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="marion&apos;s">
+    <store store-id="marion's">
         <name>MARION'S</name>
         <address1>1301 4TH ST N. </address1>
         <city>ST. PETERSBURG</city>
@@ -3860,7 +3860,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="grigsby&apos;sboutique">
+    <store store-id="grigsby'sboutique">
         <name>GRIGSBY'S BOUTIQUE</name>
         <address1>2019 KNICKERBOCKER ROAD</address1>
         <city>SAN ANGELO</city>
@@ -4319,7 +4319,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="harrison&apos;sdeptstore">
+    <store store-id="harrison'sdeptstore">
         <name>HARRISON'S DEPT STORE</name>
         <address1>103 EAST ADAMS STREET</address1>
         <city>HAMBURG</city>
@@ -4336,7 +4336,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="borsheim&apos;sfinejewelry&amp;gifts">
+    <store store-id="borsheim'sfinejewelry&amp;gifts">
         <name>BORSHEIM'S FINE JEWELRY &amp; GIFTS</name>
         <address1>120 REGENCY PARKWAY</address1>
         <city>OMAHA</city>
@@ -4387,7 +4387,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="atchison&apos;s">
+    <store store-id="atchison's">
         <name>ATCHISON'S</name>
         <address1>617 AVENUE G</address1>
         <city>LEVELLAND</city>
@@ -4578,7 +4578,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mimi&apos;sonmain">
+    <store store-id="mimi'sonmain">
         <name>MIMI'S ON MAIN</name>
         <address1>432 W. MAIN STREET</address1>
         <city>SENATOBIA</city>
@@ -4595,7 +4595,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="alter&apos;sgem">
+    <store store-id="alter'sgem">
         <name>ALTER'S GEM</name>
         <address1>3155 DOWLEN ROAD</address1>
         <city>BEAUMONT</city>
@@ -4760,7 +4760,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="gigi&apos;sboutique">
+    <store store-id="gigi'sboutique">
         <name>GIGI'S BOUTIQUE</name>
         <address1>91 HWY 70</address1>
         <city>CROSSVILLE</city>
@@ -4879,7 +4879,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;sofcolumbia">
+    <store store-id="monkee'sofcolumbia">
         <name>MONKEE'S OF COLUMBIA</name>
         <address1>3211 DEVINE STREET</address1>
         <city>COLUMBIA</city>
@@ -5124,7 +5124,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="johnathanmichael&apos;smcmurray">
+    <store store-id="johnathanmichael'smcmurray">
         <name>JOHNATHAN MICHAEL'S - MCMURRAY</name>
         <address1>3328 WASHINGTON RD</address1>
         <city>MCMURRAY</city>
@@ -5141,7 +5141,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="maryjane&apos;swaikoloa">
+    <store store-id="maryjane'swaikoloa">
         <name>MARY JANE'S - WAIKOLOA</name>
         <address1>69-250 WAIKOLOA BEACH DRIVE, UNIT C-7</address1>
         <city>WAIKOLOA</city>
@@ -5370,7 +5370,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="hill&apos;sinhousejewelers">
+    <store store-id="hill'sinhousejewelers">
         <name>HILL'S IN-HOUSE JEWELERS</name>
         <address1>2265 HWY 15 NORTH</address1>
         <city>LAUREL</city>
@@ -5438,7 +5438,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cara&apos;sboutique">
+    <store store-id="cara'sboutique">
         <name>CARA'S BOUTIQUE</name>
         <address1>30179 DETROIT RD</address1>
         <city>WESTLAKE</city>
@@ -5489,7 +5489,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="bayoubelle&apos;sboutique">
+    <store store-id="bayoubelle'sboutique">
         <name>BAYOU BELLE'S BOUTIQUE</name>
         <address1>118 COURT SQUARE</address1>
         <city>EAST COVINGTON</city>
@@ -5557,7 +5557,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="apple&apos;sltd">
+    <store store-id="apple'sltd">
         <name>APPLE'S LTD</name>
         <address1>512 S. MAIN STREET</address1>
         <city>POPLARVILLE</city>
@@ -5800,7 +5800,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="christinalynn&apos;s">
+    <store store-id="christinalynn's">
         <name>CHRISTINA LYNN'S</name>
         <address1>42 S. SECTION ST. #7</address1>
         <city>FAIRHOPE</city>
@@ -5868,7 +5868,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ima&apos;sfashionjackson">
+    <store store-id="ima'sfashionjackson">
         <name>IMA'S FASHION - JACKSON</name>
         <address1>1355 VANN DR</address1>
         <city>JACKSON</city>
@@ -5973,7 +5973,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="alspaugh&apos;ssterlingevents">
+    <store store-id="alspaugh'ssterlingevents">
         <name>ALSPAUGH'S STERLING EVENTS</name>
         <address1>2720 W. LAKE HOUSTON PARKWAY</address1>
         <city>KINGWOOD</city>
@@ -6340,7 +6340,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="steve&apos;sonthesquare">
+    <store store-id="steve'sonthesquare">
         <name>STEVE'S ON THE SQUARE</name>
         <address1>415 CENTER AVE </address1>
         <city>PHILADELPHIA</city>
@@ -6476,7 +6476,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="c&apos;estchic!">
+    <store store-id="c'estchic!">
         <name>C'EST CHIC!</name>
         <address1>5800 WEST SLAUGHTER LANE</address1>
         <city>AUSTIN</city>
@@ -6527,7 +6527,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="lewlew&apos;s">
+    <store store-id="lewlew's">
         <name>LEWLEW'S</name>
         <address1>300 BENNET DRIVE</address1>
         <city>PULASKI</city>
@@ -6739,7 +6739,7 @@ Labor Day Store Hours: &lt;br /&gt;
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mcb&apos;s">
+    <store store-id="mcb's">
         <name>MCB'S</name>
         <address1>6555 U.S. 98, SUITE #18</address1>
         <city>HATTIESBURG</city>
@@ -6791,7 +6791,7 @@ Labor Day Store Hours: &lt;br /&gt;
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="jennajane&apos;sjewelry">
+    <store store-id="jennajane'sjewelry">
         <name>JENNA JANE'S JEWELRY</name>
         <address1>325 9TH STREET BEACH</address1>
         <city>HAVEN</city>
@@ -6808,7 +6808,7 @@ Labor Day Store Hours: &lt;br /&gt;
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mimi&apos;sboutique">
+    <store store-id="mimi'sboutique">
         <name>MIMI'S BOUTIQUE</name>
         <address1>4750 THE GROVE DR</address1>
         <city>WINDERMERE</city>
@@ -7185,7 +7185,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="elliebee&apos;s">
+    <store store-id="elliebee's">
         <name>ELLIE BEE'S</name>
         <address1>1418 MCCANN ROAD</address1>
         <city>LONGVIEW</city>
@@ -7219,7 +7219,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="thebug&apos;searelizabethtown">
+    <store store-id="thebug'searelizabethtown">
         <name>THE BUG'S EAR - ELIZABETHTOWN</name>
         <address1>912 NORTH DIXIE AVE.</address1>
         <city>ELIZABETHTOWN</city>
@@ -7333,7 +7333,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="puckett&apos;s">
+    <store store-id="puckett's">
         <name>PUCKETT'S</name>
         <address1>1012 MAIN STREET</address1>
         <city>BENTON</city>
@@ -7790,7 +7790,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="loeb&apos;s">
+    <store store-id="loeb's">
         <name>LOEB'S</name>
         <address1>2209 FRONT ST.</address1>
         <city>MERIDIAN</city>
@@ -7807,7 +7807,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="peabody&apos;sinteriors">
+    <store store-id="peabody'sinteriors">
         <name>PEABODY'S INTERIORS</name>
         <address1>8655 N. DEERWOOD DRIVE</address1>
         <city>BROWN DEER</city>
@@ -7933,7 +7933,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;sofgreenville">
+    <store store-id="monkee'sofgreenville">
         <name>MONKEE'S OF GREENVILLE</name>
         <address1>698-A E. ARLINGTON BLVD</address1>
         <city>GREENVILLE</city>
@@ -7950,7 +7950,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="steel&apos;sjewelry">
+    <store store-id="steel'sjewelry">
         <name>STEEL'S JEWELRY</name>
         <address1>3338 COUNTRY CLUB RD</address1>
         <city>VALDOSTA</city>
@@ -8052,7 +8052,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="thebug&apos;searbardstown">
+    <store store-id="thebug'searbardstown">
         <name>THE BUG'S EAR - BARDSTOWN</name>
         <address1>105 EAST FLAGET AVE.</address1>
         <city>BARDSTOWN</city>
@@ -8289,7 +8289,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="herry&apos;sclothescloset">
+    <store store-id="herry'sclothescloset">
         <name>HERRY'S CLOTHES CLOSET</name>
         <address1>195 COLLEGE AVENUE</address1>
         <city>ATHENS</city>
@@ -8468,7 +8468,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="patsy&apos;sbridalboutique">
+    <store store-id="patsy'sbridalboutique">
         <name>PATSY'S BRIDAL BOUTIQUE</name>
         <address1>4244 OAK LAWN AVE</address1>
         <city>DALLAS</city>
@@ -8485,7 +8485,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="embella&apos;s">
+    <store store-id="embella's">
         <name>EMBELLA'S</name>
         <address1>COLONIAL PARK MALL, 4600 JONESTWON RD</address1>
         <city>HARRISBURG</city>
@@ -8554,7 +8554,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="diann&apos;sboutique">
+    <store store-id="diann'sboutique">
         <name>DIANN'S BOUTIQUE</name>
         <address1>970 US HWY 46</address1>
         <city>KENVIL</city>
@@ -8571,7 +8571,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="selman&apos;sjewelers">
+    <store store-id="selman'sjewelers">
         <name>SELMAN'S JEWELERS</name>
         <address1>1311 DELAWARE AVE</address1>
         <city>MCCOMB</city>
@@ -8741,7 +8741,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="lanskybro&apos;speabodyhotel">
+    <store store-id="lanskybro'speabodyhotel">
         <name>LANSKY BRO'S - PEABODY HOTEL</name>
         <address1>92 S. FRONT STREET</address1>
         <city>MEMPHIS</city>
@@ -8918,7 +8918,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="jennifer&apos;scountrycuts">
+    <store store-id="jennifer'scountrycuts">
         <name>JENNIFER'S COUNTRY CUTS</name>
         <address1>2543 HIGHWAY 19 SOUTH</address1>
         <city>MAGNOLIA</city>
@@ -8935,7 +8935,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="malouf&apos;s">
+    <store store-id="malouf's">
         <name>MALOUF'S</name>
         <address1>8201 QUAKER AVENUE SUITE 106</address1>
         <city>LUBBOCK</city>
@@ -9480,7 +9480,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="julien&apos;s">
+    <store store-id="julien's">
         <name>JULIEN'S</name>
         <address1>200 N GETTY STREET</address1>
         <city>UVALDE</city>
@@ -9703,7 +9703,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="meig&apos;sjewelry">
+    <store store-id="meig'sjewelry">
         <name>MEIG'S JEWELRY</name>
         <address1>100 N MUSKOGEE AVE</address1>
         <city>TAHLEQUAH</city>
@@ -9811,7 +9811,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="gayle&apos;sjewelers">
+    <store store-id="gayle'sjewelers">
         <name>GAYLE'S JEWELERS</name>
         <address1>406 COLUMBIA STREET</address1>
         <city>BOGALUSA</city>
@@ -9846,7 +9846,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cantrell&apos;sjewelry">
+    <store store-id="cantrell'sjewelry">
         <name>CANTRELL'S JEWELRY</name>
         <address1>1312 W 11TH STREET</address1>
         <city>COFFEYVILLE</city>
@@ -9931,7 +9931,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="rebecca&apos;s">
+    <store store-id="rebecca's">
         <name>REBECCA'S</name>
         <address1>108 GRIFFIN STREET</address1>
         <city>TEXICO</city>
@@ -9948,7 +9948,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="maryjane&apos;svail">
+    <store store-id="maryjane'svail">
         <name>MARY JANE'S - VAIL</name>
         <address1>285 BRIDGE STREET, UNIT #6</address1>
         <city>VAIL</city>
@@ -10685,7 +10685,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="marcelina&apos;sboutique">
+    <store store-id="marcelina'sboutique">
         <name>MARCELINA'S BOUTIQUE</name>
         <address1>5316 BOARDWALK</address1>
         <city>WILDWOOD</city>
@@ -10702,7 +10702,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cayman&apos;sclothiersinc">
+    <store store-id="cayman'sclothiersinc">
         <name>CAYMAN'S CLOTHIERS INC</name>
         <address1>2001 WEST MAIN STREET</address1>
         <city>NORMAN</city>
@@ -10861,7 +10861,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="russell&apos;sfinegifts">
+    <store store-id="russell'sfinegifts">
         <name>RUSSELL'S FINE GIFTS</name>
         <address1>506 E GIBBS ST</address1>
         <city>DEL RIO</city>
@@ -11014,7 +11014,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="gabrielle&apos;s">
+    <store store-id="gabrielle's">
         <name>GABRIELLE'S</name>
         <address1>1765 POPPS FERRY RD. STE G</address1>
         <city>BILOXI</city>
@@ -11275,7 +11275,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="alspaugh&apos;sacehardwareofthewoodlands">
+    <store store-id="alspaugh'sacehardwareofthewoodlands">
         <name>ALSPAUGH'S ACE HARDWARE OF THE WOODLANDS</name>
         <address1>10720 KUYKENDAHL ROAD</address1>
         <city>THE WOODLANDS</city>
@@ -11395,7 +11395,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="charlotte&apos;sweb">
+    <store store-id="charlotte'sweb">
         <name>CHARLOTTE'S WEB</name>
         <address1>1301 DORCHESTER RD, STE 103</address1>
         <city>CHATTANOOGA</city>
@@ -11412,7 +11412,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="tazboutiquepawley&apos;s">
+    <store store-id="tazboutiquepawley's">
         <name>TAZ BOUTIQUE - PAWLEY'S</name>
         <address1>11270 OCEAN HIGHWAY</address1>
         <city>PAWLEY'S ISLAND</city>
@@ -11549,7 +11549,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="norma&apos;scountrydreams">
+    <store store-id="norma'scountrydreams">
         <name>NORMA'S COUNTRY DREAMS</name>
         <address1>4705 CENTER STREET</address1>
         <city>DEER PARK</city>
@@ -11583,7 +11583,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cita&apos;sboutiquebrownsville">
+    <store store-id="cita'sboutiquebrownsville">
         <name>CITA'S BOUTIQUE - BROWNSVILLE</name>
         <address1>3340 PABLO KISEL BLVD, SUITE B-106,</address1>
         <city>BROWNSVILLE</city>
@@ -11965,7 +11965,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mathew&apos;sjewelers">
+    <store store-id="mathew'sjewelers">
         <name>MATHEW'S JEWELERS</name>
         <address1>126 STICKLAND DR.</address1>
         <city>ORANGE</city>
@@ -12199,7 +12199,7 @@ Sunday: 11AM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="juli&apos;swearableart">
+    <store store-id="juli'swearableart">
         <name>JULI'S WEARABLE ART</name>
         <address1>100 E PITT STREET</address1>
         <city>BEDFORD</city>
@@ -12251,7 +12251,7 @@ Sunday: 11AM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="foodpantryresortsshopsatkukui&apos;ula">
+    <store store-id="foodpantryresortsshopsatkukui'ula">
         <name>FOOD PANTRY RESORTS - SHOPS AT KUKUI'ULA</name>
         <address1>2829 ALA KALANIKAUMAKA STREET</address1>
         <city>KOLOA</city>
@@ -12319,7 +12319,7 @@ Sunday: 11AM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ce&apos;leste">
+    <store store-id="ce'leste">
         <name>CE'LESTE</name>
         <address1>6240 CHESTER STREET</address1>
         <city>ARLINGTON</city>
@@ -12805,7 +12805,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="johnathanmichael&apos;sirwin">
+    <store store-id="johnathanmichael'sirwin">
         <name>JOHNATHAN MICHAEL'S - IRWIN</name>
         <address1>8775 NORWIN AVENUE</address1>
         <city>IRWIN</city>
@@ -12913,7 +12913,7 @@ Sunday: 12PM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="bella&apos;shouse">
+    <store store-id="bella'shouse">
         <name>BELLA'S HOUSE</name>
         <address1>7890 E 109TH PLACE SOUTH</address1>
         <city>BIXBY</city>
@@ -13217,7 +13217,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="henry&apos;stradingpost">
+    <store store-id="henry'stradingpost">
         <name>HENRY'S TRADING POST</name>
         <address1>1236 BOARDWALK</address1>
         <city>OCEAN CITY</city>
@@ -13462,7 +13462,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="madison&apos;scloset">
+    <store store-id="madison'scloset">
         <name>MADISON'S CLOSET</name>
         <address1>126 CENTRAL AVE</address1>
         <city>HOT SPRINGS</city>
@@ -13581,7 +13581,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="sissy&apos;slogcabin">
+    <store store-id="sissy'slogcabin">
         <name>SISSY'S LOG CABIN</name>
         <address1>2319 CAMDEN RD</address1>
         <city>PINE BLUFF</city>
@@ -13758,7 +13758,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="christy&apos;scorner">
+    <store store-id="christy'scorner">
         <name>CHRISTY'S CORNER</name>
         <address1>255 S MAIN STREET</address1>
         <city>KELLER</city>
@@ -13844,7 +13844,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="kellyfield&apos;sboutique">
+    <store store-id="kellyfield'sboutique">
         <name>KELLY FIELD'S BOUTIQUE</name>
         <address1>124 E. NIFONG BLVD. SUITE J</address1>
         <city>COLUMBIA</city>
@@ -14208,7 +14208,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="navarra&apos;s">
+    <store store-id="navarra's">
         <name>NAVARRA'S</name>
         <address1>1025 RYAN STREET</address1>
         <city>LAKE CHARLES</city>
@@ -14328,7 +14328,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="carter&apos;sjewelchest">
+    <store store-id="carter'sjewelchest">
         <name>CARTER'S JEWEL CHEST</name>
         <address1>860 HWY 62E, UNIT 1</address1>
         <city>MOUNTAIN HOME</city>
@@ -14345,7 +14345,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="gayle&apos;s">
+    <store store-id="gayle's">
         <name>GAYLE'S</name>
         <address1>4059 SUMMERHILL SQUARE</address1>
         <city>TEXARKANA</city>
@@ -14623,7 +14623,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="knuth&apos;s">
+    <store store-id="knuth's">
         <name>KNUTH'S</name>
         <address1>30619 PINETREE RD. </address1>
         <city>PEPPER PIKE</city>
@@ -14856,7 +14856,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;soflexington">
+    <store store-id="monkee'soflexington">
         <name>MONKEE'S OF LEXINGTON</name>
         <address1>116 CLAY AVE </address1>
         <city>LEXINGTON</city>
@@ -14907,7 +14907,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="madison&apos;sonmain">
+    <store store-id="madison'sonmain">
         <name>MADISON'S ON MAIN</name>
         <address1>110 MAIN ST</address1>
         <city>BRYSON CITY</city>
@@ -15062,7 +15062,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="miabella&apos;sboutique">
+    <store store-id="miabella'sboutique">
         <name>MIA BELLA'S BOUTIQUE</name>
         <address1>61 W 10TH STREET</address1>
         <city>TRACY</city>
@@ -15233,7 +15233,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="brother&apos;sontheblvd">
+    <store store-id="brother'sontheblvd">
         <name>BROTHER'S ON THE BLVD</name>
         <address1>101 ARNOULD BLVD</address1>
         <city>LAFAYETTE</city>
@@ -15380,7 +15380,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="murray&apos;stoggeryshop">
+    <store store-id="murray'stoggeryshop">
         <name>MURRAY'S TOGGERY SHOP</name>
         <address1>62 MAIN ST.</address1>
         <city>NANTUCKET</city>
@@ -15432,7 +15432,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="holly&apos;s">
+    <store store-id="holly's">
         <name>HOLLY'S</name>
         <address1>701 STORY ST.</address1>
         <city>BOONE</city>
@@ -15539,7 +15539,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;soflouisville">
+    <store store-id="monkee'soflouisville">
         <name>MONKEE'S OF LOUISVILLE</name>
         <address1>3624 BROWNSBORO RD</address1>
         <city>LOUISVILLE</city>
@@ -15607,7 +15607,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="lizzyg&apos;sfinegifts">
+    <store store-id="lizzyg'sfinegifts">
         <name>LIZZY G'S FINE GIFTS</name>
         <address1>126 VINTAGE PARK BLVD</address1>
         <city>HOUSTON</city>
@@ -15900,7 +15900,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="brianne&apos;sboutique">
+    <store store-id="brianne'sboutique">
         <name>BRIANNE'S BOUTIQUE</name>
         <address1>75 N. STATE RD. 135</address1>
         <city>GREENWOOD</city>
@@ -16127,7 +16127,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ally&apos;sboutique">
+    <store store-id="ally'sboutique">
         <name>ALLY'S BOUTIQUE</name>
         <address1>535 MAINE STREET, SUITE 4A</address1>
         <city>QUINCY</city>
@@ -16282,7 +16282,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="e.leigh&apos;s">
+    <store store-id="e.leigh's">
         <name>E. LEIGH'S</name>
         <address1>830 FRONT STREET</address1>
         <city>CONWAY</city>
@@ -16316,7 +16316,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="claudejulian&apos;sclothingco">
+    <store store-id="claudejulian'sclothingco">
         <name>CLAUDE JULIAN'S CLOTHING CO</name>
         <address1>141 NORTH MADISON STREET</address1>
         <city>KOSCIUSKO</city>
@@ -16488,7 +16488,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="monkee&apos;sofvirginiabeach">
+    <store store-id="monkee'sofvirginiabeach">
         <name>MONKEE'S OF VIRGINIA BEACH</name>
         <address1>4549 MAIN STREET</address1>
         <city>VIRGINIA BEACH</city>
@@ -16681,7 +16681,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="maryjane&apos;ssteamboatsprings">
+    <store store-id="maryjane'ssteamboatsprings">
         <name>MARY JANE'S - STEAMBOAT SPRINGS</name>
         <address1>703 LINCOLN AVE, UNIT B103B</address1>
         <city>STEAMBOAT SPRINGS</city>
@@ -16715,7 +16715,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cita&apos;sboutiqueharlingen">
+    <store store-id="cita'sboutiqueharlingen">
         <name>CITA'S BOUTIQUE - HARLINGEN</name>
         <address1>1606 S. 77 SUNSHINE STRIP</address1>
         <city>HARLINGEN</city>
@@ -16766,7 +16766,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="simplymeg&apos;s">
+    <store store-id="simplymeg's">
         <name>SIMPLY MEG'S</name>
         <address1>1616 BATTLEGROUND AVE</address1>
         <city>GREENSBORO</city>
@@ -16784,7 +16784,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="annie&apos;sbaldoriasalem">
+    <store store-id="annie'sbaldoriasalem">
         <name>ANNIE'S BALDORIA - SALEM</name>
         <address1>203 S. BROADWAY</address1>
         <city>SALEM</city>
@@ -16835,7 +16835,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="adelaide&apos;sboutique">
+    <store store-id="adelaide'sboutique">
         <name>ADELAIDE'S BOUTIQUE</name>
         <address1>14870 SPACE CENTER BLVD A-1</address1>
         <city>HOUSTON</city>
@@ -17075,7 +17075,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="leigh&apos;s">
+    <store store-id="leigh's">
         <name>LEIGH'S</name>
         <address1>1942 BRETON RD</address1>
         <city>GRAND RAPIDS</city>
@@ -17284,7 +17284,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ima&apos;sfashionjonesboro">
+    <store store-id="ima'sfashionjonesboro">
         <name>IMA'S FASHION - JONESBORO</name>
         <address1>2125 FAIR PARK BLVD</address1>
         <city>JONESBORO</city>
