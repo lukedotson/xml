@@ -90,13 +90,14 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="james&amp;leigh">
+    <store store-id="james&leigh">
         <name>JAMES &amp; LEIGH</name>
         <address1>420 MONROE ST. SUITE A</address1>
         <city>CLINTON</city>
         <postal-code>39056</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.370736</latitude>
         <longitude>-90.312371</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -181,6 +182,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>32836</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
+        <phone>  </phone>
         <latitude>28.411534</latitude>
         <longitude>-81.525044</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -214,6 +216,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>67871</postal-code>
         <state-code>KS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.482307</latitude>
         <longitude>-100.906427</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -223,7 +226,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="shesheboutique&amp;gallery">
+    <store store-id="shesheboutique&gallery">
         <name>SHE SHE BOUTIQUE &amp; GALLERY</name>
         <address1>340 E. MAIN ST.</address1>
         <city>MONTROSE</city>
@@ -264,6 +267,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>65065</postal-code>
         <state-code>MO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.131001</latitude>
         <longitude>-92.671943</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -418,7 +422,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="dress&amp;dwell">
+    <store store-id="dress&dwell">
         <name>DRESS &amp; DWELL</name>
         <address1>138 E. SPRING STREET</address1>
         <city>NEW ALBANY</city>
@@ -442,6 +446,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>92109</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.794748</latitude>
         <longitude>-117.239392</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -458,6 +463,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>96738</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>19.972371</latitude>
         <longitude>-155.817987</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -577,6 +583,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>90403</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.786594</latitude>
         <longitude>-118.298662</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -610,6 +617,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>92130</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.952467</latitude>
         <longitude>-117.161871</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -860,7 +868,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="gift&amp;gourmet">
+    <store store-id="gift&gourmet">
         <name>GIFT &amp; GOURMET</name>
         <address1>212 SOUTH AUSTIN STREET</address1>
         <city>SEGUIN</city>
@@ -1087,7 +1095,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="june&amp;beyond">
+    <store store-id="june&beyond">
         <name>JUNE &amp; BEYOND</name>
         <address1>242 SOUTH JEFFERSON</address1>
         <city>LEBANON</city>
@@ -1172,7 +1180,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="m&amp;rjewelers">
+    <store store-id="m&rjewelers">
         <name>M &amp; R JEWELERS</name>
         <address1>117 S MAIN STREET</address1>
         <city>MCALLEN</city>
@@ -1343,7 +1351,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="martharosegifts&amp;homedecor">
+    <store store-id="martharosegifts&homedecor">
         <name>MARTHA ROSE GIFTS &amp; HOME DECOR</name>
         <address1>102 S. JEFFERSON</address1>
         <city>MEXICO</city>
@@ -1360,7 +1368,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="a&amp;jjewelers">
+    <store store-id="a&jjewelers">
         <name>A &amp; J JEWELERS</name>
         <address1>1575 SCENIC HWY, SUITE 200</address1>
         <city>SNELLVILLE</city>
@@ -1401,6 +1409,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>32461</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.252531</latitude>
         <longitude>-85.942389</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1417,6 +1426,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>92130</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.952467</latitude>
         <longitude>-117.161871</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1433,6 +1443,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>14618</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>43.112163</latitude>
         <longitude>-77.561771</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1557,6 +1568,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>90067</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.786594</latitude>
         <longitude>-118.298662</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1630,6 +1642,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>39232</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.311287</latitude>
         <longitude>-90.397157</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1662,7 +1675,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="farmhousefunk&amp;junk">
+    <store store-id="farmhousefunk&junk">
         <name>FARM HOUSE FUNK &amp; JUNK</name>
         <address1>1329 AVENUE UNIVERSITY, SUITE L</address1>
         <city>HUNTSVILLE</city>
@@ -1686,6 +1699,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>14202</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>42.889662</latitude>
         <longitude>-78.884157</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1848,6 +1862,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>78374</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>27.877804</latitude>
         <longitude>-97.322034</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1940,7 +1955,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="kristenscoin&amp;jewelry">
+    <store store-id="kristenscoin&jewelry">
         <name>KRISTEN'S COIN &amp; JEWELRY</name>
         <address1>3855 FREDERICK AVE</address1>
         <city>ST JOSEPH</city>
@@ -1982,6 +1997,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>60611</postal-code>
         <state-code>IL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>41.811929</latitude>
         <longitude>-87.68732</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -1998,6 +2014,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>95405</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.444714</latitude>
         <longitude>-122.786392</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -2058,7 +2075,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="elizabeth'sshoes&amp;accessories">
+    <store store-id="elizabeth'sshoes&accessories">
         <name>ELIZABETH'S SHOES &amp; ACCESSORIES</name>
         <address1>4777 VESTAL PARKWAY</address1>
         <city>VESTAL</city>
@@ -2099,6 +2116,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>96756</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>22.028379</latitude>
         <longitude>-159.432992</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -2257,13 +2275,14 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="faith&amp;flair">
+    <store store-id="faith&flair">
         <name>FAITH &amp; FLAIR</name>
         <address1>3215 SOUTH 74TH</address1>
         <city>FORT SMITH</city>
         <postal-code>72903</postal-code>
         <state-code>AR</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>35.354491</latitude>
         <longitude>-94.356112</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -2555,7 +2574,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="crinzi&amp;gullojewelers">
+    <store store-id="crinzi&gullojewelers">
         <name>CRINZI &amp; GULLO JEWELERS</name>
         <address1>3995 NORTH BUFFALO RD SUITE 300</address1>
         <city>ORCHARD PARK</city>
@@ -2572,7 +2591,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="liles&amp;company">
+    <store store-id="liles&company">
         <name>LILES &amp; COMPANY</name>
         <address1>205 E. GRAND AVE.</address1>
         <city>PONCA CITY</city>
@@ -2647,6 +2666,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>77995</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>29.297302</latitude>
         <longitude>-97.047148</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -2742,7 +2762,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="erin&amp;co.">
+    <store store-id="erin&co.">
         <name>ERIN &amp; CO.</name>
         <address1>1654 CALEB DR. SE SUITE A</address1>
         <city>BROOKHAVEN</city>
@@ -2810,13 +2830,14 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="five&amp;company">
+    <store store-id="five&company">
         <name>FIVE &amp; COMPANY</name>
         <address1>335 S. MUSTANG RD</address1>
         <city>YUKON</city>
         <postal-code>73099</postal-code>
         <state-code>OK</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>35.521448</latitude>
         <longitude>-97.770532</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -2843,7 +2864,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="beaurivageresort&amp;casino">
+    <store store-id="beaurivageresort&casino">
         <name>BEAU RIVAGE RESORT &amp; CASINO</name>
         <address1>887 BARTHES STREET</address1>
         <city>BILOXI</city>
@@ -2968,7 +2989,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="simplyserenesalon&amp;spa">
+    <store store-id="simplyserenesalon&spa">
         <name>SIMPLY SERENE SALON &amp; SPA</name>
         <address1>512 NORTH MAIN STREET</address1>
         <city>BOERNE</city>
@@ -2992,6 +3013,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>83646</postal-code>
         <state-code>ID</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>43.631743</latitude>
         <longitude>-116.357265</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -3090,6 +3112,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>91355</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.786594</latitude>
         <longitude>-118.298662</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -3345,7 +3368,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="bev&amp;co">
+    <store store-id="bev&co">
         <name>BEV &amp; CO</name>
         <address1>1 S MAIN STREET</address1>
         <city>HOMER</city>
@@ -3562,7 +3585,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="panacheapparel&amp;accessories">
+    <store store-id="panacheapparel&accessories">
         <name>PANACHE APPAREL &amp; ACCESSORIES</name>
         <address1>9354 THREE RIVERS RD SUITE A</address1>
         <city>GULFPORT</city>
@@ -3596,7 +3619,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mica&amp;molly's">
+    <store store-id="mica&molly's">
         <name>MICA &amp; MOLLY'S</name>
         <address1>1112 W NEW HAVEN AVE</address1>
         <city>MELBOURNE</city>
@@ -3688,7 +3711,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="girlfriend'sflowers&amp;gifts">
+    <store store-id="girlfriend'sflowers&gifts">
         <name>GIRLFRIEND'S FLOWERS &amp; GIFTS</name>
         <address1>202 N KANSAS AVE</address1>
         <city>LIBERAL</city>
@@ -3746,6 +3769,7 @@ Sunday: 10AM - 6PM</store-hours>
         <postal-code>73141</postal-code>
         <state-code>OK </state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>35.583757</latitude>
         <longitude>-97.397064</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -3857,7 +3881,7 @@ Sunday: 10AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="frick&amp;frack">
+    <store store-id="frick&frack">
         <name>FRICK &amp; FRACK</name>
         <address1>1470 ROUTE 23 NORTH PACKANACK SHOPPING CENTER</address1>
         <city>WAYNE</city>
@@ -4055,13 +4079,14 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="selfridges&amp;co">
+    <store store-id="selfridges&co">
         <name>SELFRIDGES &amp; CO</name>
         <address1>400 OXFORD STREET</address1>
         <city>LONDON</city>
         <postal-code>W1A1AB</postal-code>
         <state-code>MARYLEBONE</state-code>
         <country-code>GB</country-code>
+        <phone></phone>
         <latitude>51.514472</latitude>
         <longitude>-0.152611</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -4088,7 +4113,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="holidaze&amp;gifts">
+    <store store-id="holidaze&gifts">
         <name>HOLIDAZE &amp; GIFTS</name>
         <address1>3400 PRESTON RD. #200</address1>
         <city>PLANO</city>
@@ -4146,6 +4171,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>85739</postal-code>
         <state-code>AZ</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.465013</latitude>
         <longitude>-110.892213</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -4229,7 +4255,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="five&amp;companyokc">
+    <store store-id="five&companyokc">
         <name>FIVE &amp; COMPANY - OKC</name>
         <address1>10740 S. MAY AVE #114</address1>
         <city>OKLAHOMA CITY</city>
@@ -4315,7 +4341,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="borsheim'sfinejewelry&amp;gifts">
+    <store store-id="borsheim'sfinejewelry&gifts">
         <name>BORSHEIM'S FINE JEWELRY &amp; GIFTS</name>
         <address1>120 REGENCY PARKWAY</address1>
         <city>OMAHA</city>
@@ -4332,7 +4358,7 @@ Sunday: 12:30PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="embellishnails&amp;boutique">
+    <store store-id="embellishnails&boutique">
         <name>EMBELLISH NAILS &amp; BOUTIQUE</name>
         <address1>3663 BEE CAVE ROAD, SUITE 3</address1>
         <city>AUSTIN</city>
@@ -4475,6 +4501,7 @@ Sunday: 12:30PM - 6PM</store-hours>
         <postal-code>10012</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <store-hours xml:lang="x-default">Monday - Saturday: 10AM - 8PM&lt;br /&gt;
 Sunday: 11AM - 7PM</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
@@ -4530,6 +4557,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>98112</postal-code>
         <state-code>WA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>47.432251</latitude>
         <longitude>-121.803388</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -4630,7 +4658,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="dennis&amp;company">
+    <store store-id="dennis&company">
         <name>DENNIS &amp; COMPANY</name>
         <address1>205 FLORIDA PLACE</address1>
         <city>FORT WALTON BEACH</city>
@@ -4823,7 +4851,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="sugar&amp;spiceunioncity">
+    <store store-id="sugar&spiceunioncity">
         <name>SUGAR &amp; SPICE - UNION CITY</name>
         <address1>210 S 1ST STREET</address1>
         <city>UNION CITY</city>
@@ -4847,6 +4875,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>21801</postal-code>
         <state-code>MD</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.382445</latitude>
         <longitude>-75.633621</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5039,6 +5068,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>78612</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.083931</latitude>
         <longitude>-97.486885</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5285,6 +5315,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>20659</postal-code>
         <state-code>MD</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.279211</latitude>
         <longitude>-76.608406</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5516,7 +5547,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="laquintaresort&amp;club">
+    <store store-id="laquintaresort&club">
         <name>LA QUINTA RESORT &amp; CLUB</name>
         <address1>49-499 EISENHOWER DRIVE</address1>
         <city>LA QUINTA</city>
@@ -5591,6 +5622,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>77566</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>29.09609</latitude>
         <longitude>-95.425232</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5600,7 +5632,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="k.marie&amp;co">
+    <store store-id="k.marie&co">
         <name>K. MARIE &amp; CO</name>
         <address1>111 WALDEN WAY</address1>
         <city>MECHANICSBURG</city>
@@ -5624,6 +5656,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>39074</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.399853</latitude>
         <longitude>-89.505298</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5640,6 +5673,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>54601</postal-code>
         <state-code>WI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>43.85456</latitude>
         <longitude>-91.132072</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5656,6 +5690,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>89118</postal-code>
         <state-code>NV</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>36.030073</latitude>
         <longitude>-115.233131</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -5865,6 +5900,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>55425</postal-code>
         <state-code>MN</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>44.853278</latitude>
@@ -5929,7 +5965,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="loli&amp;thebean">
+    <store store-id="loli&thebean">
         <name>LOLI &amp; THE BEAN</name>
         <address1>1400 VILLAGE SQUARE BLVD, SUITE 10</address1>
         <city>TALLAHASSEE</city>
@@ -6131,6 +6167,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>94065</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>37.53256</latitude>
         <longitude>-122.247806</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6262,6 +6299,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>89145</postal-code>
         <state-code>NV</state-code>
         <country-code>US</country-code>
+        <phone>  </phone>
         <latitude>36.169273</latitude>
         <longitude>-115.282751</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6352,6 +6390,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>95442</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.383854</latitude>
         <longitude>-122.557253</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6402,6 +6441,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>37215</postal-code>
         <state-code>TN</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>36.086531</latitude>
         <longitude>-86.885987</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6411,7 +6451,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="cole&amp;company">
+    <store store-id="cole&company">
         <name>COLE &amp; COMPANY</name>
         <address1>2467 CROW ROAD, SUITE 1</address1>
         <city>TYLER</city>
@@ -6435,6 +6475,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>67601</postal-code>
         <state-code>KS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.878202</latitude>
         <longitude>-99.334803</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6485,6 +6526,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>79705</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.046146</latitude>
         <longitude>-102.073493</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6543,6 +6585,7 @@ Labor Day Store Hours: &lt;br /&gt;
         <postal-code>72342</postal-code>
         <state-code>AR</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>34.45192</latitude>
         <longitude>-90.751249</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6781,6 +6824,7 @@ Labor Day Store Hours: &lt;br /&gt;
         <postal-code>34786</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>28.481031</latitude>
         <longitude>-81.543979</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -6887,7 +6931,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="leela&amp;lavender">
+    <store store-id="leela&lavender">
         <name>LEELA &amp; LAVENDER</name>
         <address1>3265 45TH STREET SOUTH, SUITE 116</address1>
         <city>FARGO</city>
@@ -7013,7 +7057,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="borgatahotel&amp;casinospa">
+    <store store-id="borgatahotel&casinospa">
         <name>BORGATA HOTEL &amp; CASINO SPA</name>
         <address1>1 BORGATA WAY</address1>
         <city>ATLANTIC CITY</city>
@@ -7133,7 +7177,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="ariaresort&amp;casinoelements">
+    <store store-id="ariaresort&casinoelements">
         <name>ARIA RESORT &amp; CASINO - ELEMENTS</name>
         <address1>3600 LAS VEGAS BLVD SOUTH</address1>
         <city>LAS VEGAS</city>
@@ -7167,7 +7211,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="honeysuckle&amp;home">
+    <store store-id="honeysuckle&home">
         <name>HONEYSUCKLE &amp; HOME</name>
         <address1>300 SOUTH MAIN ST.</address1>
         <city>RECTOR</city>
@@ -7373,6 +7417,7 @@ Sunday: 11AM - 7PM</store-hours>
         <postal-code>39232</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.311287</latitude>
         <longitude>-90.397157</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -7473,7 +7518,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="greetings&amp;readings">
+    <store store-id="greetings&readings">
         <name>GREETINGS &amp; READINGS</name>
         <address1>118-AA SHAWAN RD.</address1>
         <city>HUNT VALLEY</city>
@@ -7599,13 +7644,14 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="sora&amp;companymissoula">
+    <store store-id="sora&companymissoula">
         <name>SORA &amp; COMPANY - MISSOULA</name>
         <address1>145 W. MAIN STREET</address1>
         <city>MISSOULA</city>
         <postal-code>59802</postal-code>
         <state-code>MT </state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>46.989689</latitude>
         <longitude>-113.954788</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -7988,6 +8034,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>75038</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.767268</latitude>
         <longitude>-96.777626</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -8241,6 +8288,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>32830</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>28.385549</latitude>
         <longitude>-81.505894</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -8274,6 +8322,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>753034</postal-code>
         <state-code>OK</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>35.639523</latitude>
@@ -8362,6 +8411,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>40202</postal-code>
         <state-code>KY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.251951</latitude>
         <longitude>-85.75667</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -8372,7 +8422,7 @@ Sunday: 12PM-6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="peppermillresort&amp;casino">
+    <store store-id="peppermillresort&casino">
         <name>PEPPERMILL RESORT &amp; CASINO</name>
         <address1>2707 S. VIRGINIA STREET</address1>
         <city>RENO</city>
@@ -8436,6 +8486,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>75219</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.767268</latitude>
         <longitude>-96.777626</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -8691,6 +8742,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>78373</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>27.770678</latitude>
         <longitude>-97.105137</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -8952,6 +9004,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>32459</postal-code>
         <state-code>FL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.347158</latitude>
         <longitude>-86.222048</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9002,7 +9055,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="acoridiamonds&amp;design">
+    <store store-id="acoridiamonds&design">
         <name>ACORI DIAMONDS &amp; DESIGN</name>
         <address1>636 SOUTH FRIENDSWOOD DRIVE</address1>
         <city>FRIENDSWOOD</city>
@@ -9145,6 +9198,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>39157</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.436064</latitude>
         <longitude>-90.13731</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9161,6 +9215,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>39402</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>31.335865</latitude>
         <longitude>-89.379246</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9177,6 +9232,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>80906</postal-code>
         <state-code>CO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.796074</latitude>
         <longitude>-104.841763</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9193,6 +9249,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>96753</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>20.723542</latitude>
         <longitude>-156.469915</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9282,11 +9339,12 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>W1A 1AB</postal-code>
         <latitude>51.51463</latitude>
         <longitude>-0.155016</longitude>
+        <phone></phone>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
         <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
         <pos-enabled-flag>false</pos-enabled-flag>
     </store>
-    <store store-id="gaudie&amp;co">
+    <store store-id="gaudie&co">
         <name>GAUDIE &amp; CO</name>
         <address1>6025 PHELAN BLVD, SUITE B</address1>
         <city>BEAUMONT</city>
@@ -9384,7 +9442,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="mary&amp;makboutique">
+    <store store-id="mary&makboutique">
         <name>MARY &amp; MAK BOUTIQUE</name>
         <address1>1002 DURHAM RD, SUITE 500</address1>
         <city>WAKE FOREST</city>
@@ -9408,6 +9466,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>85251</postal-code>
         <state-code>AZ</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.420061</latitude>
         <longitude>-111.792658</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9452,7 +9511,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="heaven&amp;earth">
+    <store store-id="heaven&earth">
         <name>HEAVEN &amp; EARTH</name>
         <address1>212 N. CENTRE STREET</address1>
         <city>POTTSVILLE</city>
@@ -9699,6 +9758,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>18901</postal-code>
         <state-code>PENNSLYVANIA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>40.334863</latitude>
         <longitude>-75.118737</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9807,6 +9867,7 @@ Sunday: 12PM - 5:30PM</store-hours>
         <postal-code>67337</postal-code>
         <state-code>KS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>37.146267</latitude>
         <longitude>-95.748313</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9891,6 +9952,7 @@ Sunday: 12PM - 5:30PM</store-hours>
         <postal-code>88132</postal-code>
         <state-code>NM</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.921623</latitude>
         <longitude>-103.189798</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -9951,7 +10013,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="taylorsvilleflorist&amp;gifts">
+    <store store-id="taylorsvilleflorist&gifts">
         <name>TAYLORSVILLE FLORIST &amp; GIFTS</name>
         <address1>407 FRONT STREET</address1>
         <city>TAYLORSVILLE</city>
@@ -10002,7 +10064,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="field&amp;finchleclaire">
+    <store store-id="field&finchleclaire">
         <name>FIELD &amp; FINCH - LE CLAIRE</name>
         <address1>217 N CODY RD</address1>
         <city>LE CLAIRE</city>
@@ -10095,6 +10157,7 @@ Sunday: 12PM - 5:30PM</store-hours>
         <postal-code>10013</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>40.722105</latitude>
         <longitude>-74.003497</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -10232,6 +10295,7 @@ Sunday: 12PM - 5:30PM</store-hours>
         <postal-code>77304</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.276638</latitude>
         <longitude>-95.444823</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -10368,6 +10432,7 @@ Sunday: 12PM - 5:30PM</store-hours>
         <postal-code>65201</postal-code>
         <state-code>MO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.894165</latitude>
         <longitude>-92.274145</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -10377,7 +10442,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="embellishnails&amp;boutique:anderson">
+    <store store-id="embellishnails&boutique:anderson">
         <name>EMBELLISH NAILS &amp; BOUTIQUE: ANDERSON</name>
         <address1>3010 WEST ANDERSON LANE</address1>
         <city>AUSTIN</city>
@@ -10412,7 +10477,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="omniranchlaspalmasresort&amp;spa">
+    <store store-id="omniranchlaspalmasresort&spa">
         <name>OMNI RANCH LAS PALMAS RESORT &amp; SPA</name>
         <address1>41000 BOB HOPE DRIVE</address1>
         <city>RANCHO MIRAGE</city>
@@ -10703,7 +10768,7 @@ Sunday: 12PM - 5:30PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="silversteer&amp;co">
+    <store store-id="silversteer&co">
         <name>SILVER STEER &amp; CO</name>
         <address1>539 COOL SPRINGS BLVD, SUITE 110</address1>
         <city>FRANKLIN</city>
@@ -10777,7 +10842,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="karats&amp;keepsakes">
+    <store store-id="karats&keepsakes">
         <name>KARATS &amp; KEEPSAKES</name>
         <address1>4524 FORSYTH RD, SUITE 202</address1>
         <city>MACON</city>
@@ -10835,6 +10900,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>48067</postal-code>
         <state-code>MI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>42.492485</latitude>
         <longitude>-83.145375</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -10878,7 +10944,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="theblonde&amp;thebrunette">
+    <store store-id="theblonde&thebrunette">
         <name>THE BLONDE &amp; THE BRUNETTE</name>
         <address1>100 3RD ST SE</address1>
         <city>CEDAR RAPIDS</city>
@@ -10970,6 +11036,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>39532</postal-code>
         <state-code>MS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.510988</latitude>
         <longitude>-88.96808</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -11043,6 +11110,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>96722</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>22.219231</latitude>
         <longitude>-159.486562</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -11154,7 +11222,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="holly&amp;brooks">
+    <store store-id="holly&brooks">
         <name>HOLLY &amp; BROOKS</name>
         <address1>510 FRESHFIELDS DR.</address1>
         <city>JOHNS ISLAND</city>
@@ -11239,7 +11307,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="louisianapurcahses&amp;interiors">
+    <store store-id="louisianapurcahses&interiors">
         <name>LOUISIANA PURCAHSES &amp; INTERIORS</name>
         <address1>1306 N. 18TH STREET</address1>
         <city>MONROE</city>
@@ -11297,6 +11365,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>76109</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.771419</latitude>
         <longitude>-97.291484</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -11382,6 +11451,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>21701</postal-code>
         <state-code>MD</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>39.512748</latitude>
         <longitude>-77.369299</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -11894,7 +11964,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="belle&amp;co">
+    <store store-id="belle&co">
         <name>BELLE &amp; CO</name>
         <address1>2801-3A WARD BLVD</address1>
         <city>WILSON</city>
@@ -11952,6 +12022,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>46240</postal-code>
         <state-code>IN</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>39.877991</latitude>
         <longitude>-86.200688</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -12186,6 +12257,7 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>70601</postal-code>
         <state-code>LA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.233355</latitude>
         <longitude>-93.214903</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -12202,6 +12274,7 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>96756</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>22.028379</latitude>
         <longitude>-159.432992</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -12320,6 +12393,7 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>66762</postal-code>
         <state-code>KS </state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>37.448044</latitude>
         <longitude>-94.819212</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -12404,6 +12478,7 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>29401</postal-code>
         <state-code>SC</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <store-hours xml:lang="x-default">COMING SOON!</store-hours>
         <image>images/stores/coming-soon-store-image.jpg</image>
         <latitude>32.782405</latitude>
@@ -12502,7 +12577,7 @@ Sunday: 11AM - 5PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="signaturesinvitations&amp;gifts ">
+    <store store-id="signaturesinvitations&gifts ">
         <name>SIGNATURES INVITATIONS &amp; GIFTS </name>
         <address1>20211 NORTH 67TH AVENUE, B5</address1>
         <city>GLENDALE</city>
@@ -12629,6 +12704,7 @@ Sunday: 11AM - 5PM</store-hours>
         <postal-code>60433</postal-code>
         <state-code>IL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>41.476265</latitude>
         <longitude>-87.882249</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -12871,7 +12947,7 @@ Sunday: 12PM - 7PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="henredon&amp;schoener">
+    <store store-id="henredon&schoener">
         <name>HENREDON &amp; SCHOENER</name>
         <address1>700 BELLEVUE WAY NE, STE 220</address1>
         <city>BELLEVUE</city>
@@ -13022,6 +13098,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>35401</postal-code>
         <state-code>AL</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.209154</latitude>
         <longitude>-87.569559</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13039,6 +13116,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>11430</postal-code>
         <state-code>NY</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>40.655246</latitude>
         <longitude>-73.797769</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13048,13 +13126,14 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="foodpantryresortswakikibeachmarriottresort&amp;spa">
+    <store store-id="foodpantryresortswakikibeachmarriottresort&spa">
         <name>FOOD PANTRY RESORTS - WAKIKI BEACH MARRIOTT RESORT &amp; SPA</name>
         <address1>2552 KALAKAUA AVENUE</address1>
         <city>HONOLULU</city>
         <postal-code>96815</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>24.859832</latitude>
         <longitude>-168.021815</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13122,7 +13201,7 @@ Sunday: 11AM - 7PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="main&amp;gray">
+    <store store-id="main&gray">
         <name>MAIN &amp; GRAY</name>
         <address1>223 MAIN STREET</address1>
         <city>FORT MILL</city>
@@ -13452,7 +13531,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="sugar&amp;spice">
+    <store store-id="sugar&spice">
         <name>SUGAR &amp; SPICE</name>
         <address1>310 BROADWAY STREET </address1>
         <city>MARTIN</city>
@@ -13486,7 +13565,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="bangles&amp;diamonds">
+    <store store-id="bangles&diamonds">
         <name>BANGLES &amp; DIAMONDS</name>
         <address1>22 ATLANTIC AVE</address1>
         <city>MARBLEHEAD</city>
@@ -13596,6 +13675,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>95630</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.594181</latitude>
         <longitude>-121.310796</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13789,6 +13869,7 @@ Sunday: 12PM-6PM</store-hours>
         <postal-code>65203</postal-code>
         <state-code>MO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.88248</latitude>
         <longitude>-92.397824</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13880,6 +13961,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>20814</postal-code>
         <state-code>MD</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>39.00452</latitude>
         <longitude>-77.1046</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13896,6 +13978,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>02128</postal-code>
         <state-code>MA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>42.367508</latitude>
         <longitude>-71.025144</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13930,6 +14013,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>78613</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.525524</latitude>
         <longitude>-97.81648</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -13974,7 +14058,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="court&amp;layne">
+    <store store-id="court&layne">
         <name>COURT &amp; LAYNE</name>
         <address1>1210 N AIRLINE HWY SUITE 10</address1>
         <city>GONZALES</city>
@@ -14161,7 +14245,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="bev&amp;coithaca">
+    <store store-id="bev&coithaca">
         <name>BEV &amp; CO - ITHACA</name>
         <address1>2255 TRIPHAMMER RD.</address1>
         <city>ITHACA</city>
@@ -14288,6 +14372,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>75503</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>33.464376</latitude>
         <longitude>-94.116906</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -14327,6 +14412,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>W1A1AB</postal-code>
         <state-code>MARYLEBONE</state-code>
         <country-code>GB</country-code>
+        <phone></phone>
         <latitude>51.514472</latitude>
         <longitude>-0.152611</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -14472,7 +14558,7 @@ Sunday: 12PM - 5PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="juniper&amp;mae">
+    <store store-id="juniper&mae">
         <name>JUNIPER &amp; MAE</name>
         <address1>930 N. MAIN</address1>
         <city>PRINCETON</city>
@@ -14866,6 +14952,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>63873</postal-code>
         <state-code>MO </state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>36.475274</latitude>
         <longitude>-89.748064</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -15003,6 +15090,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>95376</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>37.688679</latitude>
         <longitude>-121.407804</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -15088,6 +15176,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>81224</postal-code>
         <state-code>CO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.880713</latitude>
         <longitude>-106.94868</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -15223,6 +15312,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>79912</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <email>lavillita@kendrascott.com</email>
         <store-hours xml:lang="x-default">Monday - Saturday: 10AM - 8PM&lt;br /&gt;
 Sunday: 12PM - 6PM</store-hours>
@@ -15354,6 +15444,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>67401</postal-code>
         <state-code>KS</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.800797</latitude>
         <longitude>-97.612221</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16015,6 +16106,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>64735</postal-code>
         <state-code>MO</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.401811</latitude>
         <longitude>-93.785012</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16134,6 +16226,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>68847</postal-code>
         <state-code>NE</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>40.723561</latitude>
         <longitude>-99.084035</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16144,7 +16237,7 @@ Sunday: 12PM - 6PM</store-hours>
             <custom-attribute attribute-id="countryCodeValue">US</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="studio77gifts&amp;accessories">
+    <store store-id="studio77gifts&accessories">
         <name>STUDIO 77 GIFTS &amp; ACCESSORIES</name>
         <address1>5001 N. KINGS HIGHWAY</address1>
         <city>MYRTLE BEACH</city>
@@ -16340,6 +16433,7 @@ Sunday: 12PM - 6PM</store-hours>
         <postal-code>22201</postal-code>
         <state-code>VA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>38.885484</latitude>
         <longitude>-77.099113</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16652,6 +16746,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>78550</postal-code>
         <state-code>TX</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>26.185202</latitude>
         <longitude>-97.536807</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16754,6 +16849,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>39466</postal-code>
         <state-code>MS </state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.627655</latitude>
         <longitude>-89.63128</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -16832,7 +16928,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="maunalanibayhotel&amp;bungalows">
+    <store store-id="maunalanibayhotel&bungalows">
         <name>MAUNA LANI BAY HOTEL &amp; BUNGALOWS</name>
         <address1>68-1400 MAUNA LANI DRIVE</address1>
         <city>KOHALA COAST</city>
@@ -16900,7 +16996,7 @@ Sunday: 11AM - 6PM</store-hours>
             <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
         </custom-attributes>
     </store>
-    <store store-id="milly&amp;grace">
+    <store store-id="milly&grace">
         <name>MILLY &amp; GRACE</name>
         <address1>2 WASHINGTON STREET</address1>
         <city>NANTUCKET</city>
@@ -17061,6 +17157,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>92154</postal-code>
         <state-code>CA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>32.628038</latitude>
         <longitude>-117.035225</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -17128,6 +17225,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>96815</postal-code>
         <state-code>HI</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>24.859832</latitude>
         <longitude>-168.021815</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -17144,6 +17242,7 @@ Sunday: 11AM - 6PM</store-hours>
         <postal-code>70601</postal-code>
         <state-code>LA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>30.233355</latitude>
         <longitude>-93.214903</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
@@ -17234,6 +17333,7 @@ Sunday: 12PM - 5PM</store-hours>
         <postal-code>98033</postal-code>
         <state-code>WA</state-code>
         <country-code>US</country-code>
+        <phone></phone>
         <latitude>47.673263</latitude>
         <longitude>-122.187029</longitude>
         <store-locator-enabled-flag>true</store-locator-enabled-flag>
