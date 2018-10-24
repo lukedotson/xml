@@ -55,6 +55,7 @@ while (stores[i]) {
 	var storeID = store.attributes['store-id'];
 	storeID = xmlescape(storeID);
 	console.log("store-id: " + storeID);
+	store.attributes['store-id'] = storeID;
 	
 	//console.log(stores[i]);
 	if (phone.length == 0) {
