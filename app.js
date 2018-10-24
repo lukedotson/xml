@@ -54,15 +54,16 @@ while (stores[i]) {
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
 	storeID = storeID.replace('&', '&amp;');
-	console.log("store-id: " + storeID);
+	//console.log("store-id: " + storeID);
 	store.attributes['store-id'] = storeID;
 	
 	//console.log(stores[i]);
 
 	//console.log(stores[i]);
 	var nameText = name[0].elements[0].text;
+	console.log("name: " + nameText);
 	nameText = nameText.replace('&amp;', '&');
-	
+	console.log("nameClean: " + nameText);
 	var record = storeUpdates.filter(obj => obj.name === nameText);
 		
 	if (record.length>0) {
