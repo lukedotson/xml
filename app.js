@@ -79,7 +79,7 @@ while (stores[i]) {
 }
 
 //var finalFile = fs.readFileSync('result.xml', 'utf8');
-var final = convert.js2xml(resultjs, {spaces: 4});
+var final = convert.js2xml(resultjs, {sanitize: true, spaces: 4});
 fs.writeFile('result.xml', final, (err) => {
 	  if (err) throw err;
 	  console.log('The file has been saved!');
