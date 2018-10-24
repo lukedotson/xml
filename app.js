@@ -65,22 +65,21 @@ while (stores[i]) {
 	var record = storeUpdates.filter(obj => obj.name === nameText);
 		
 	if (record.length>0) {
-		
-		if (phone.length == 0) {
-			var newElement = new Object();
-			newElement.type = "element";
-			newElement.name = "phone";
-			newElement.elements = [{"type":"text","text":""}];
-			store.elements.splice(6, 0, newElement);
-			
-			phone = store.elements.filter(obj => obj.name === 'phone');
-			//var phoneText = phone[0].elements[0].text;
-			//console.log("happy");
+		if (record[0].phone != "") {
+			if (phone.length == 0) {
+				var newElement = new Object();
+				newElement.type = "element";
+				newElement.name = "phone";
+				newElement.elements = [{"type":"text","text":""}];
+				store.elements.splice(6, 0, newElement);
+				
+				phone = store.elements.filter(obj => obj.name === 'phone');
+				//var phoneText = phone[0].elements[0].text;
+				//console.log("happy");
+			}
+			phone[0].elements[0].text = record[0].phone;
 		}
-		
 		//console.log("found: " + record[0].name + " " + record[0].phone + " / " + phone[0].elements[0].text);
-		phone[0].elements[0].text = record[0].phone;
-	
 	}
 	
 	i++;
