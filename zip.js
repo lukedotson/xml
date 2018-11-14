@@ -39,11 +39,20 @@ while (stores[i]) {
 	var address1Obj = store.elements.filter(obj => obj.name === 'address1');
 	var address1 = address1Obj[0].elements[0].text;
 	var cityObj = store.elements.filter(obj => obj.name === 'city');
-	var city = cityObj[0].elements[0].text;
+	var city;
+	if (cityObj) {
+		city = cityObj[0].elements[0].text;
+	}
 	var stateObj = store.elements.filter(obj => obj.name === 'state-code');
-	var state = stateObj[0].elements[0].text;
+	var state
+	if (stateObj) {
+		state = stateObj[0].elements[0].text;
+	}
 	var postalObj = store.elements.filter(obj => obj.name === 'postal-code');
-	var postal = postalObj[0].elements[0].text;
+	var postal
+	if (stateObj) {
+		postalObj = postalObj[0].elements[0].text;
+	}
 	var address = address1 + " " + city + " " + state + " " + postal;
 	address = encodeURIComponent(address);
 	//var latString = JSON.stringify(latitude);
