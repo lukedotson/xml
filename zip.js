@@ -122,6 +122,11 @@ function callGoogle(address, lat, long, storeID) {
 					if (err) throw err;
 					console.log('the file has been saved!');
 				});
+			} else {
+				fs.appendFile('log.txt', "No Response", (err) => {
+					if (err) throw err;
+					console.log('no response');
+				});
 			}
 			//console.log(data.results.geometry);
 		}).on("error", (err) => {
