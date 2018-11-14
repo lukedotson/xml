@@ -60,12 +60,18 @@ while (stores[i]) {
 	//console.log(JSON.stringify(store));
 	console.log("store-id: " + storeID + " - Latitude: " + latitude + " Longitude: " + longitude + " Address: " + address);
 	
+	function myFunc(arg) {
+		  console.log(`arg was => ${arg}`);
+	}
+	
 	//console.log(latString);
 	var interval = 10;
 	var timeout = interval * i;
 	store.attributes['store-id'] = storeID;
-	setTimeout(callGoogle(address, latitude, longitude, storeID), timeout);
+	setTimeout(myFunc, timeout, 'funky');
 	
+	
+	//callGoogle(address, latitude, longitude, storeID)
 	//console.log(stores[i]);
 
 	//console.log(stores[i]);
