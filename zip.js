@@ -118,7 +118,7 @@ function callGoogle(address, lat, long, storeID) {
 				
 				var latDiff = glat - lat;
 				var longDiff = glong - long;
-				fs.appendFile('log.txt', "DIFF: " + latDiff + "," longDiff + " " + storeID + ": {lat: " + glat + "," + lat + "| lon: " + glong + "," + long + "}\n", (err) => {
+				fs.appendFile('log.txt', "DIFF: " + latDiff + "|" longDiff + " " + storeID + ": {lat: " + glat + "<>" + lat + "| lon: " + glong + "<>" + long + "}\n", (err) => {
 					if (err) throw err;
 					console.log('the file has been saved!');
 				});
