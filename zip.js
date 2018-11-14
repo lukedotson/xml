@@ -49,7 +49,7 @@ while (stores[i]) {
 	//console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
-	https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', (resp) => {
+	var x = https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', (resp) => {
 		let data = '';
 		
 		resp.on('data', (chunk) => {
