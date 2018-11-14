@@ -24,7 +24,7 @@ while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
 	var latitudeObj = store.elements.filter(obj => obj.name === 'latitude');
-	var latitude = latitudeObj["elements"];
+	var latitude = latitudeObj.elements;
 	var longitude = store.elements.filter(obj => obj.name === 'longitude');
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
