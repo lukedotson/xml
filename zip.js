@@ -110,9 +110,15 @@ function callGoogle(address, lat, long, storeID) {
 			//});
 			//console.log(JSON.parse(data).results[0]);
 			if (JSON.parse(data).results[0]) {
-				console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat);
-				console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long);
-				fs.appendFile('log.txt', storeID + ": {lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat + " lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long + "}\n", (err) => {
+				
+				var glat = JSON.parse(data).results[0].geometry.location.lat;
+				var glong = JSON.parse(data).results[0].geometry.location.lng;
+				console.log("lat: " + glat + " - " + lat);
+				console.log("lon: " + glong + " - " + long);
+				
+				var latDiff = glat - lat;
+				var longDiff = glong - long;
+				fs.appendFile('log.txt', "DIFF: " + latDiff + "," longDiff + " " + storeID + ": {lat: " + glat + "," + lat + "| lon: " + glong + "," + long + "}\n", (err) => {
 					if (err) throw err;
 					console.log('the file has been saved!');
 				});
