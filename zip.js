@@ -71,10 +71,10 @@ while (stores[i]) {
 	//console.log(latString);
 	var interval = 10;
 	var timeout = interval * i;
-	argg[i] = "happy" + i;
+	var happy = "happy" + i;
 	//console.log(argg[i]);
 	store.attributes['store-id'] = storeID;
-	setTimeout(myFunc.bind(null, argg[i]), timeout);
+	setTimeout(myFunc.bind(null, happy), timeout);
 	
 	
 	//callGoogle(address, latitude, longitude, storeID)
