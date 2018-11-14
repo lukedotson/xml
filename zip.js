@@ -11,7 +11,7 @@ fs.writeFile('log.txt', "", (err) => {
 	console.log('the file has been saved!');
 });
 
-var xmlContents = fs.readFileSync('store_all_11142018.xml');
+var xmlContents = fs.readFileSync('stores_all_11142018.xml');
 //var csvContents = fs.readFileSync('updatedList.csv').toString();
 var xmlescape = require('xml-escape');
 
