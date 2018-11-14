@@ -49,7 +49,7 @@ while (stores[i]) {
 	//console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
-	callGoogle(address);
+	callGoogle(address, latitude, longitude);
 	
 	//console.log(stores[i]);
 
@@ -81,7 +81,7 @@ while (stores[i]) {
 	i++;
 }
 
-function callGoogle(address) {
+function callGoogle(address, lat, long) {
 	https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', (resp) => {
 		let data = '';
 		
@@ -95,8 +95,8 @@ function callGoogle(address) {
 			//	console.log('The file has been saved!');
 			//});
 			console.log(JSON.parse(data).results[0]);
-			console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + latitude);
-			console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + longitude);
+			console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat);
+			console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long);
 			//console.log(data.results.geometry);
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
