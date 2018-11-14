@@ -63,7 +63,7 @@ while (stores[i]) {
 	//console.log(latString);
 	var interval = 10;
 	store.attributes['store-id'] = storeID;
-	setTimeout(callGoogle(address, latitude, longitude, storeID), interval * i);
+	setTimeout(callGoogle(address, latitude, longitude, storeID), interval * i, nothing());
 	
 	//console.log(stores[i]);
 
@@ -93,6 +93,10 @@ while (stores[i]) {
 	}*/
 	
 	i++;
+}
+
+function nothing() {
+	
 }
 
 function callGoogle(address, lat, long, storeID) {
