@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+var https = require('https');
+
 var fs = require('fs');
 
 var xmlContents = fs.readFileSync('store_sample_11142018.xml');
@@ -45,6 +47,14 @@ while (stores[i]) {
 	console.log("store-id: " + storeID + " - Latitude: " + latitude + " Longitude: " + longitude + " Address: " + address);
 	//console.log(latString);
 	store.attributes['store-id'] = storeID;
+	
+	https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', (resp) => {
+		let data = '';
+		
+		resp.on('end', () => {
+			console.log(JSON.parse(data).explanation);
+		});
+	});
 	
 	//console.log(stores[i]);
 
