@@ -30,7 +30,7 @@ while (stores[i]) {
 	var storeID = store.attributes['store-id'];
 	var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
-	console.log("store-id: " + storeID + " " + "Latitude: " + latitude[0].elements[0]);
+	console.log("store-id: " + storeID + " " + "Latitude: " + latitude[0].elements[0].text);
 	console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
