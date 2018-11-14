@@ -74,7 +74,7 @@ while (stores[i]) {
 	argg[i] = "happy" + i;
 	//console.log(argg[i]);
 	store.attributes['store-id'] = storeID;
-	setTimeout(() => myFunc(), timeout, i);
+	setTimeout(myFunc.bind(null, argg[i]), timeout);
 	
 	
 	//callGoogle(address, latitude, longitude, storeID)
