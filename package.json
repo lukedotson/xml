@@ -66,6 +66,7 @@
       "resolved": "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz",
       "version": "2.6.9"
     },
+    "delay": "^4.1.0",
     "depd": {
       "integrity": "sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=",
       "resolved": "https://registry.npmjs.org/depd/-/depd-1.1.2.tgz",
