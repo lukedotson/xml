@@ -60,10 +60,10 @@ while (stores[i]) {
 	//console.log(JSON.stringify(store));
 	console.log("store-id: " + storeID + " - Latitude: " + latitude + " Longitude: " + longitude + " Address: " + address);
 	
-	function myFunc(arg, callback) {
+	function myFunc(arg) {
 		  console.log(`arg was => ${arg}`);
 		  
-		  callback(null);
+		  //callback(null);
 	}
 	
 	//console.log(latString);
