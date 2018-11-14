@@ -29,7 +29,10 @@ while (stores[i]) {
 	var longitude = longitudeObj[0].elements[0].text;
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
-	//var address1Obj = store.elements.filter(obj => obj.name === 'latitude');
+	var address1Obj = store.elements.filter(obj => obj.name === 'address1');
+	var address1Obj = store.elements.filter(obj => obj.name === 'city');
+	var address1Obj = store.elements.filter(obj => obj.name === 'state-code');
+	var address1Obj = store.elements.filter(obj => obj.name === 'postal-code');
 	//var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
 	console.log(JSON.stringify(store));
