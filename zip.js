@@ -52,7 +52,11 @@ while (stores[i]) {
 		let data = '';
 		
 		resp.on('end', () => {
-			console.log(JSON.parse(data).explanation);
+			fs.writeFile('log.txt', JSON.parse(data.explanation), (err) => {
+				if (err) throw err;
+				console.log('The file has been saved!');
+			});
+			//console.log(JSON.parse(data).explanation);
 		});
 	});
 	
