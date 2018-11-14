@@ -6,6 +6,11 @@ var https = require('https');
 
 var fs = require('fs');
 
+fs.writeFile('log.txt', "", (err) => {
+	if (err) throw err;
+	console.log('the file has been saved!');
+});
+
 var xmlContents = fs.readFileSync('store_sample_11142018.xml');
 //var csvContents = fs.readFileSync('updatedList.csv').toString();
 var xmlescape = require('xml-escape');
