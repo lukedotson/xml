@@ -30,13 +30,18 @@ while (stores[i]) {
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
 	var address1Obj = store.elements.filter(obj => obj.name === 'address1');
-	var address1Obj = store.elements.filter(obj => obj.name === 'city');
-	var address1Obj = store.elements.filter(obj => obj.name === 'state-code');
-	var address1Obj = store.elements.filter(obj => obj.name === 'postal-code');
+	var address1 = address1Obj[0].elements[0].text;
+	var cityObj = store.elements.filter(obj => obj.name === 'city');
+	var city = cityObj[0].elements[0].text;
+	var stateObj = store.elements.filter(obj => obj.name === 'state-code');
+	var state = stateObj[0].elements[0].text;
+	var postalObj = store.elements.filter(obj => obj.name === 'postal-code');
+	var postal = postalObj[0].elements[0].text;
+	var address = address1 + "+" + city + "+" + state + "+" + postal
 	//var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
-	console.log(JSON.stringify(store));
-	console.log("store-id: " + storeID + " - Latitude: " + latitude + " Longitude: " + longitude + " Address: ");
+	//console.log(JSON.stringify(store));
+	console.log("store-id: " + storeID + " - Latitude: " + latitude + " Longitude: " + longitude + " Address: " + address);
 	//console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
