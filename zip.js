@@ -71,6 +71,7 @@ while (stores[i]) {
 	var interval = 10;
 	var timeout = interval * i;
 	argg[i] = "happy" + i;
+	console.log(argg[i]);
 	store.attributes['store-id'] = storeID;
 	setTimeout(() => myFunc(argg[i]), timeout);
 	
