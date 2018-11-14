@@ -7,7 +7,7 @@ var https = require('https');
 
 var fs = require('fs');
 
-fs.writeFile('log.txt', "", (err) => {
+fs.writeFile('log.txt', "Lat Diff\tLong Diff\tStore ID\tGoogle Lat\tKS Lat\tGoogle Long\tKS Long\ns", (err) => {
 	if (err) throw err;
 	console.log('the file has been saved!');
 });
@@ -135,7 +135,7 @@ function callGoogle(address, lat, long, storeID) {
 				
 				var latDiff = glat - lat;
 				var longDiff = glong - long;
-				fs.appendFile('log.txt', "DIFF: " + latDiff + " " + longDiff + " :: " + storeID + ": {lat: " + glat + "<>" + lat + " lon: " + glong + "<>" + long + "}\n", (err) => {
+				fs.appendFile('log.txt', latDiff + "\t" + longDiff + "\t" + storeID + "\t" + glat + "\t" + lat + "\t" + glong + "\t" + long + "\n", (err) => {
 					if (err) throw err;
 					console.log('the file has been saved!');
 				});
