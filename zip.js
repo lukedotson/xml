@@ -23,13 +23,14 @@ var i=0;
 while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
-	var latitude = store.elements.filter(obj => obj.name === 'latitude');
+	var latitudeObj = store.elements.filter(obj => obj.name === 'latitude');
+	var latitude = latitudeObj["elements"];
 	var longitude = store.elements.filter(obj => obj.name === 'longitude');
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
 	var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
-	console.log("store-id: " + storeID + " " + "Latitude: " + latitude["elements"]["text"]);
+	console.log("store-id: " + storeID + " " + "Latitude: " + latitude);
 	console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
