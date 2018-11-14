@@ -28,7 +28,7 @@ while (stores[i]) {
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
 	//storeID = storeID.replace('&', '&amp;');
-	console.log("store-id: " + storeID + " " + "Latitude: " + latitude);
+	console.log("store-id: " + storeID + " " + "Latitude: " + latitude[0]);
 	store.attributes['store-id'] = storeID;
 	
 	//console.log(stores[i]);
