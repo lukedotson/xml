@@ -48,7 +48,7 @@ while (stores[i]) {
 	//console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
-	https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', (resp) => {
+	https.get('https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=AIzaSyDCk-z5W_7tnojlnUqqf3QFnq1cvz6O7Vc', latitude, longitude, (resp) => {
 		let data = '';
 		
 		resp.on('data', (chunk) => {
@@ -60,8 +60,8 @@ while (stores[i]) {
 			//	if (err) throw err;
 			//	console.log('The file has been saved!');
 			//});
-			console.log(JSON.parse(data).results[0].geometry.location.lat + " - " + latitude);
-			console.log(JSON.parse(data).results[0].geometry.location.lng + " - " + longitude);
+			console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + latitude);
+			console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + longitude);
 			//console.log(data.results.geometry);
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
