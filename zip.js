@@ -68,7 +68,7 @@ while (stores[i]) {
 	var interval = 10;
 	var timeout = interval * i;
 	store.attributes['store-id'] = storeID;
-	setTimeout(myFunc, timeout, 'funky');
+	setTimeout(myFunc("happy" + i), timeout, 'funky');
 	
 	
 	//callGoogle(address, latitude, longitude, storeID)
