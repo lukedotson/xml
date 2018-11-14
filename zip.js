@@ -69,7 +69,7 @@ while (stores[i]) {
 	}
 	
 	//console.log(latString);
-	var interval = 10;
+	var interval = 50;
 	var timeout = interval * i;
 	var happy = "happy" + i;
 	//console.log(argg[i]);
