@@ -27,8 +27,10 @@ while (stores[i]) {
 	var longitude = store.elements.filter(obj => obj.name === 'longitude');
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
+	var storeString = JSON.stringify(store);
 	//storeID = storeID.replace('&', '&amp;');
 	console.log("store-id: " + storeID + " " + "Latitude: " + latitude[0]);
+	console.log(storeString);
 	store.attributes['store-id'] = storeID;
 	
 	//console.log(stores[i]);
