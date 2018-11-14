@@ -61,7 +61,7 @@ while (stores[i]) {
 			//	console.log('The file has been saved!');
 			//});
 			console.log(JSON.parse(data));
-			console.log(data.results);
+			console.log(data.geometry);
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
 		});
