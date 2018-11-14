@@ -69,7 +69,7 @@ while (stores[i]) {
 	//console.log(latString);
 	var interval = 10;
 	var timeout = interval * i;
-	var argg[];
+	var argg = new Array();
 	argg[i] = "happy" + i;
 	store.attributes['store-id'] = storeID;
 	setTimeout(() => myFunc(argg[i]), timeout);
