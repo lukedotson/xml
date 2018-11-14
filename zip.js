@@ -24,14 +24,15 @@ while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
 	var store = stores[i];
 	var latitudeObj = store.elements.filter(obj => obj.name === 'latitude');
-	var latitude = latitudeObj;
-	var longitude = store.elements.filter(obj => obj.name === 'longitude');
+	var latitude = latitudeObj[0].elements[0].text;
+	var longitudeObj = store.elements.filter(obj => obj.name === 'longitude');
+	var longitude = longitudeObj[0].elements[0].text;
 	var name = store.elements.filter(obj=> obj.name === 'name');
 	var storeID = store.attributes['store-id'];
-	var latString = JSON.stringify(latitude);
+	//var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
-	console.log("store-id: " + storeID + " " + "Latitude: " + latitude[0].elements[0].text);
-	console.log(latString);
+	console.log("store-id: " + storeID + " Latitude: " + latitude + " Longitude: " + longitude);
+	//console.log(latString);
 	store.attributes['store-id'] = storeID;
 	
 	//console.log(stores[i]);
