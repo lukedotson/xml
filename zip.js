@@ -127,6 +127,7 @@ function callGoogle(address, lat, long, storeID) {
 					if (err) throw err;
 					console.log('no response');
 				});
+				console.log(JSON.parse(data));
 			}
 			//console.log(data.results.geometry);
 		}).on("error", (err) => {
