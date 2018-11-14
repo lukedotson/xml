@@ -56,11 +56,11 @@ while (stores[i]) {
 		});
 		
 		resp.on('end', () => {
-			fs.writeFile('log.txt', JSON.parse(data), (err) => {
-				if (err) throw err;
-				console.log('The file has been saved!');
-			});
-			//console.log(JSON.parse(data).explanation);
+			//fs.writeFile('log.txt', JSON.parse(data), (err) => {
+			//	if (err) throw err;
+			//	console.log('The file has been saved!');
+			//});
+			console.log(JSON.parse(data).explanation);
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
 		});
