@@ -60,7 +60,7 @@ while (stores[i]) {
 			//	if (err) throw err;
 			//	console.log('The file has been saved!');
 			//});
-			console.log(JSON.parse(data).explanation);
+			console.log(JSON.parse(data));
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
 		});
