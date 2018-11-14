@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const delay = require('delay');
 
 var https = require('https');
 
@@ -73,10 +74,11 @@ while (stores[i]) {
 	argg[i] = "happy" + i;
 	console.log(argg[i]);
 	store.attributes['store-id'] = storeID;
-	setTimeout(() => myFunc(argg[i]), timeout);
+	myFunc("happy" + i);
+	delay(10);
 	
 	
-	//callGoogle(address, latitude, longitude, storeID)
+	callGoogle(address, latitude, longitude, storeID)
 	//console.log(stores[i]);
 
 	//console.log(stores[i]);
