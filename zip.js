@@ -40,17 +40,17 @@ while (stores[i]) {
 	var address1 = address1Obj[0].elements[0].text;
 	var cityObj = store.elements.filter(obj => obj.name === 'city');
 	var city;
-	if (cityObj) {
+	if (cityObj[0]) {
 		city = cityObj[0].elements[0].text;
 	}
 	var stateObj = store.elements.filter(obj => obj.name === 'state-code');
 	var state
-	if (stateObj) {
+	if (stateObj[0]) {
 		state = stateObj[0].elements[0].text;
 	}
 	var postalObj = store.elements.filter(obj => obj.name === 'postal-code');
 	var postal
-	if (stateObj) {
+	if (postalObj[0]) {
 		postalObj = postalObj[0].elements[0].text;
 	}
 	var address = address1 + " " + city + " " + state + " " + postal;
