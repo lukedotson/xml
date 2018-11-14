@@ -75,7 +75,7 @@ while (stores[i]) {
 	console.log(argg[i]);
 	store.attributes['store-id'] = storeID;
 	myFunc("happy" + i);
-	delay(100);
+	delay(10 * i);
 	
 	
 	//callGoogle(address, latitude, longitude, storeID)
