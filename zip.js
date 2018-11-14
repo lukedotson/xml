@@ -26,6 +26,7 @@ var root = resultjs.elements.filter(obj => obj.name === 'stores');
 //console.log(root);
 var stores = root[0].elements.filter(obj => obj.name === 'store');
 
+var argg = new Array();
 var i=0;
 while (stores[i]) {
 	//var store = stores[i].elements.filter(obj => obj.name == 'store')
@@ -69,7 +70,6 @@ while (stores[i]) {
 	//console.log(latString);
 	var interval = 10;
 	var timeout = interval * i;
-	var argg = new Array();
 	argg[i] = "happy" + i;
 	store.attributes['store-id'] = storeID;
 	setTimeout(() => myFunc(argg[i]), timeout);
