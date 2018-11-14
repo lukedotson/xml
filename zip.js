@@ -109,12 +109,14 @@ function callGoogle(address, lat, long, storeID) {
 			//	console.log('The file has been saved!');
 			//});
 			//console.log(JSON.parse(data).results[0]);
-			console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat);
-			console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long);
-			fs.appendFile('log.txt', storeID + ": {lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat + " lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long + "}\n", (err) => {
-				if (err) throw err;
-				console.log('the file has been saved!');
-			});
+			if (JSON.parse(data).results[0]) {
+				console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat);
+				console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long);
+				fs.appendFile('log.txt', storeID + ": {lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat + " lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long + "}\n", (err) => {
+					if (err) throw err;
+					console.log('the file has been saved!');
+				});
+			}
 			//console.log(data.results.geometry);
 		}).on("error", (err) => {
 			  console.log("Error: " + err.message);
