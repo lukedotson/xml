@@ -37,7 +37,8 @@ while (stores[i]) {
 	var state = stateObj[0].elements[0].text;
 	var postalObj = store.elements.filter(obj => obj.name === 'postal-code');
 	var postal = postalObj[0].elements[0].text;
-	var address = address1 + "+" + city + "+" + state + "+" + postal
+	var address = address1 + " " + city + " " + state + " " + postal;
+	address = encodeURIComponent(address);
 	//var latString = JSON.stringify(latitude);
 	//storeID = storeID.replace('&', '&amp;');
 	//console.log(JSON.stringify(store));
