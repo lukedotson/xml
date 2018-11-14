@@ -140,7 +140,7 @@ function callGoogle(address, lat, long, storeID) {
 					console.log('the file has been saved!');
 				});
 			} else {
-				fs.appendFile('log.txt', "No Response", (err) => {
+				fs.appendFile('log.txt', "No Response\n", (err) => {
 					if (err) throw err;
 					console.log('no response');
 				});
