@@ -97,7 +97,7 @@ function callGoogle(address, lat, long) {
 			//console.log(JSON.parse(data).results[0]);
 			console.log("lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat);
 			console.log("lon: " + JSON.parse(data).results[0].geometry.location.lng + " - " + long);
-			fs.appendFile('log.txt', "lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat, (err) => {
+			fs.appendFile('log.txt', "lat: " + JSON.parse(data).results[0].geometry.location.lat + " - " + lat + "\n", (err) => {
 				if (err) throw err;
 				console.log('the file has been saved!');
 			});
