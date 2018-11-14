@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores xmlns="http://www.demandware.com/xml/impex/store/2007-04-30">
+    <store store-id="23southenglewood">
+        <name>23 SOUTH ENGLEWOOD</name>
+        <address1>1 EAST PALISADE AVENUE</address1>
+        <city>ENGLEWOOD</city>
+        <postal-code>07631</postal-code>
+        <state-code>NJ</state-code>
+        <country-code>US</country-code>
+        <phone>(973) 590-2500</phone>
+        <latitude>40.889498</latitude>
+        <longitude>-73.971782</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="25silverboutiquequeensbury">
+        <name>25 SILVER BOUTIQUE - QUEENSBURY</name>
+        <address1>578 AVIATION RD</address1>
+        <city>QUEENSBURY</city>
+        <postal-code>12804</postal-code>
+        <state-code>NY</state-code>
+        <country-code>US</country-code>
+        <phone>(518) 798-0540</phone>
+        <latitude>43.489472</latitude>
+        <longitude>-73.789563</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="23south">
+        <name>23 SOUTH</name>
+        <address1>23 SOUTH STREET</address1>
+        <city>MORRISTOWN</city>
+        <postal-code>07960</postal-code>
+        <state-code>NJ</state-code>
+        <country-code>US</country-code>
+        <phone>(973) 590-2500</phone>
+        <latitude>40.77165</latitude>
+        <longitude>-74.506256</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="25silverboutiquecoloniecenter">
+        <name>25 SILVER BOUTIQUE - COLONIE CENTER</name>
+        <address1>131 COLONIE CENTER DR</address1>
+        <city>ALBANY</city>
+        <postal-code>12205</postal-code>
+        <state-code>NY</state-code>
+        <country-code>US</country-code>
+        <phone>(518) 459-5454</phone>
+        <latitude>42.719799</latitude>
+        <longitude>-73.820666</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="25silverboutiqueplattsburgh">
+        <name>25 SILVER BOUTIQUE - PLATTSBURGH</name>
+        <address1>60 SMITHFIELD BLVD</address1>
+        <city>PLATTSBURGH</city>
+        <postal-code>12901</postal-code>
+        <state-code>NY</state-code>
+        <country-code>US</country-code>
+        <phone>(518) 561-3478</phone>
+        <latitude>44.71187</latitude>
+        <longitude>-73.637104</longitude>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="IsOtherRetailer">true</custom-attribute>
+        </custom-attributes>
+    </store>
+
+</stores>
